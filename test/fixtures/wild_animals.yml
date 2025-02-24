@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  scientific_name: MyString
+  classification: MyString
+  habitat: MyString
+  diet: MyString
+  conservation_status: MyString
+  region: MyString
+
+two:
+  name: MyString
+  scientific_name: MyString
+  classification: MyString
+  habitat: MyString
+  diet: MyString
+  conservation_status: MyString
+  region: MyString

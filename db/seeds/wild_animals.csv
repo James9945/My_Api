@@ -1,0 +1,1501 @@
+id,name,scientific_name,classification,habitat,diet,conservation_status,region
+1,Julie Bear,Wagner Welch,Mammal,Savannah,Herbivore,Vulnerable,North America
+2,Andrew Wolf,Roth Benson,Bird,Ocean,Herbivore,Vulnerable,Worldwide
+3,Steven Crocodile,Spencer Martin,Amphibian,Ocean,Omnivore,Least Concern,Africa
+4,Emily Wolf,Mccann Cooley,Bird,Forest,Herbivore,Near Threatened,Australia
+5,Jessica Owl,Smith Hill,Mammal,Caves,Carnivore,Least Concern,South America
+6,Daniel Lizard,Martin Bell,Amphibian,Wetlands,Carnivore,Critically Endangered,Africa
+7,Mary Lizard,Stewart Rivera,Amphibian,Rivers,Carnivore,Critically Endangered,Australia
+8,Dennis Eagle,Escobar Clarke,Amphibian,Tundra,Herbivore,Near Threatened,Africa
+9,John Crocodile,Lawrence Wilson,Mammal,Wetlands,Carnivore,Near Threatened,Antarctica
+10,Christine Crocodile,Lopez Joseph,Amphibian,Mountains,Omnivore,Vulnerable,Asia
+11,Charles Lizard,Gardner Zamora,Mammal,Wetlands,Herbivore,Vulnerable,South America
+12,Carla Python,Gray Jones,Reptile,Tundra,Omnivore,Endangered,South America
+13,Jason Wolf,Tran White,Bird,Ocean,Carnivore,Critically Endangered,Europe
+14,Tyler Eagle,Rose Stewart,Fish,Savannah,Herbivore,Vulnerable,Africa
+15,Nichole Lizard,Espinoza Berg,Fish,Forest,Omnivore,Critically Endangered,South America
+16,Justin Bear,Villa Jones,Reptile,Rivers,Omnivore,Near Threatened,Antarctica
+17,George Eagle,Walker Miller,Fish,Rivers,Herbivore,Vulnerable,Worldwide
+18,Thomas Owl,Cummings Whitaker,Bird,Tundra,Herbivore,Critically Endangered,South America
+19,Tracy Crocodile,Turner Medina,Reptile,Forest,Omnivore,Critically Endangered,Australia
+20,Joseph Tiger,Ingram Carr,Reptile,Desert,Herbivore,Critically Endangered,South America
+21,Pamela Crocodile,Pham Brown,Fish,Ocean,Omnivore,Endangered,Europe
+22,Daniel Shark,Rose Frye,Amphibian,Caves,Omnivore,Endangered,North America
+23,Alex Crocodile,Mcguire Rivera,Fish,Desert,Carnivore,Critically Endangered,Worldwide
+24,Steven Owl,Moore Collins,Amphibian,Wetlands,Herbivore,Least Concern,Asia
+25,Carol Python,Oconnor Willis,Fish,Ocean,Herbivore,Endangered,South America
+26,Johnny Wolf,Brewer Johnson,Mammal,Wetlands,Omnivore,Least Concern,South America
+27,Kimberly Falcon,Gates Blake,Amphibian,Caves,Herbivore,Near Threatened,Australia
+28,Jason Puma,Levine Powers,Amphibian,Grasslands,Herbivore,Endangered,Asia
+29,Jill Shark,Drake Wilson,Mammal,Desert,Carnivore,Endangered,Australia
+30,Teresa Owl,Garcia Woods,Mammal,Rivers,Carnivore,Critically Endangered,Africa
+31,Virginia Bear,Duncan Buck,Amphibian,Ocean,Omnivore,Vulnerable,North America
+32,Kristen Puma,Sanders Molina,Fish,Rivers,Carnivore,Endangered,Asia
+33,Stephen Owl,Lopez Burton,Mammal,Wetlands,Carnivore,Vulnerable,Asia
+34,Patrick Python,Palmer Guzman,Reptile,Desert,Carnivore,Endangered,Asia
+35,Jerry Puma,Dennis Smith,Reptile,Desert,Herbivore,Endangered,North America
+36,John Owl,Jenkins Gray,Reptile,Mountains,Herbivore,Vulnerable,Australia
+37,Brian Owl,Thompson Cervantes,Fish,Savannah,Carnivore,Least Concern,Worldwide
+38,Amy Bear,Kelly Collier,Fish,Grasslands,Herbivore,Endangered,Europe
+39,Steven Bear,Mcclain Gregory,Bird,Ocean,Carnivore,Near Threatened,Asia
+40,Lauren Puma,Moore Williams,Fish,Savannah,Carnivore,Vulnerable,North America
+41,Kevin Eagle,Davenport Stephenson,Bird,Grasslands,Herbivore,Vulnerable,Worldwide
+42,Ashley Wolf,Alvarado Moreno,Bird,Rivers,Herbivore,Endangered,Asia
+43,James Falcon,Wilkins Campos,Fish,Wetlands,Omnivore,Vulnerable,Africa
+44,Rhonda Tiger,Garcia Fitzgerald,Fish,Grasslands,Carnivore,Endangered,Europe
+45,Stephanie Bear,Lewis Vaughn,Fish,Mountains,Carnivore,Least Concern,Worldwide
+46,Jennifer Falcon,Allen Landry,Fish,Mountains,Carnivore,Near Threatened,Asia
+47,Samuel Bear,Phillips Mann,Fish,Forest,Herbivore,Vulnerable,North America
+48,Amy Tiger,Reynolds Salazar,Bird,Rivers,Carnivore,Near Threatened,North America
+49,Joseph Shark,Perez Tanner,Bird,Ocean,Carnivore,Vulnerable,Australia
+50,Jean Eagle,Robertson Jordan,Mammal,Grasslands,Carnivore,Least Concern,Africa
+51,Carrie Wolf,Vega Perkins,Bird,Ocean,Omnivore,Endangered,Worldwide
+52,Elizabeth Python,French Stephens,Mammal,Wetlands,Carnivore,Near Threatened,Europe
+53,Sean Python,Bauer Howe,Amphibian,Rivers,Omnivore,Least Concern,Asia
+54,Kimberly Eagle,Acosta Gonzalez,Bird,Grasslands,Carnivore,Critically Endangered,South America
+55,Cameron Shark,Gardner Ferguson,Bird,Wetlands,Carnivore,Endangered,Europe
+56,Ryan Crocodile,Larsen Johnson,Amphibian,Caves,Omnivore,Critically Endangered,North America
+57,Denise Owl,Wyatt Guzman,Mammal,Forest,Carnivore,Least Concern,Antarctica
+58,Lori Python,Olson Murphy,Mammal,Mountains,Carnivore,Near Threatened,Antarctica
+59,Monica Python,Allen King,Amphibian,Ocean,Omnivore,Critically Endangered,Antarctica
+60,John Eagle,Green Collins,Bird,Wetlands,Herbivore,Critically Endangered,Africa
+61,Sarah Wolf,Anderson Fisher,Amphibian,Rivers,Omnivore,Endangered,Europe
+62,David Lizard,Camacho Smith,Fish,Wetlands,Herbivore,Critically Endangered,Europe
+63,Jasmine Wolf,Pierce Hayes,Fish,Mountains,Herbivore,Least Concern,Europe
+64,Brent Eagle,Martinez Thompson,Amphibian,Wetlands,Omnivore,Endangered,Worldwide
+65,Maurice Shark,Travis Tucker,Fish,Desert,Omnivore,Endangered,Europe
+66,Kyle Falcon,Joyce Gutierrez,Fish,Caves,Omnivore,Endangered,South America
+67,Jennifer Bear,Jones Rodriguez,Reptile,Caves,Herbivore,Near Threatened,Antarctica
+68,Kevin Falcon,Douglas Davis,Mammal,Wetlands,Herbivore,Endangered,Worldwide
+69,Daniel Bear,Orozco Guzman,Reptile,Forest,Omnivore,Near Threatened,Europe
+70,Christopher Bear,Savage Page,Fish,Ocean,Carnivore,Endangered,Africa
+71,Stephen Wolf,Underwood Lee,Mammal,Ocean,Herbivore,Vulnerable,South America
+72,Trevor Tiger,Henderson Vazquez,Amphibian,Desert,Herbivore,Critically Endangered,Worldwide
+73,Andrea Crocodile,Owens Baker,Reptile,Tundra,Herbivore,Critically Endangered,Antarctica
+74,Maria Crocodile,Norman Burns,Fish,Desert,Omnivore,Least Concern,South America
+75,Joshua Owl,Porter Terry,Mammal,Grasslands,Herbivore,Critically Endangered,Antarctica
+76,Carmen Eagle,Torres Hood,Reptile,Savannah,Herbivore,Near Threatened,Worldwide
+77,Richard Eagle,Thomas Bright,Bird,Grasslands,Carnivore,Endangered,Antarctica
+78,Victoria Shark,Wagner Gilbert,Reptile,Forest,Herbivore,Endangered,Asia
+79,Jose Shark,Cox White,Fish,Caves,Carnivore,Near Threatened,Worldwide
+80,Christopher Python,Moore Shepard,Reptile,Wetlands,Herbivore,Critically Endangered,South America
+81,Jon Tiger,Farmer Kelly,Mammal,Ocean,Herbivore,Critically Endangered,Australia
+82,Amy Python,Smith Moss,Fish,Grasslands,Herbivore,Least Concern,Europe
+83,Alvin Tiger,Dudley Butler,Fish,Desert,Omnivore,Near Threatened,South America
+84,Jennifer Bear,Smith Richard,Amphibian,Wetlands,Omnivore,Near Threatened,Worldwide
+85,Rachel Tiger,Fisher Larsen,Bird,Forest,Herbivore,Least Concern,Worldwide
+86,Wesley Crocodile,Martin Cardenas,Mammal,Rivers,Carnivore,Endangered,South America
+87,Alicia Shark,Williams Nelson,Bird,Forest,Carnivore,Critically Endangered,Worldwide
+88,Amanda Puma,White Brown,Mammal,Grasslands,Carnivore,Vulnerable,Worldwide
+89,Rebecca Shark,Young Armstrong,Reptile,Rivers,Carnivore,Least Concern,Europe
+90,Jill Lizard,Kane White,Reptile,Savannah,Herbivore,Vulnerable,Africa
+91,Donald Owl,Long Gutierrez,Bird,Wetlands,Carnivore,Near Threatened,North America
+92,David Shark,Lambert Sanders,Bird,Tundra,Carnivore,Near Threatened,Asia
+93,Frank Wolf,Dominguez Juarez,Mammal,Grasslands,Herbivore,Near Threatened,Australia
+94,Matthew Owl,Simmons Heath,Fish,Grasslands,Herbivore,Vulnerable,Worldwide
+95,Sandra Crocodile,Vargas Robinson,Amphibian,Tundra,Herbivore,Vulnerable,Europe
+96,Cindy Owl,Davis Parsons,Mammal,Ocean,Herbivore,Critically Endangered,Antarctica
+97,Keith Bear,Brown Nichols,Mammal,Tundra,Herbivore,Critically Endangered,Worldwide
+98,Benjamin Wolf,Perez Blackburn,Mammal,Rivers,Carnivore,Endangered,Worldwide
+99,Steven Eagle,Lewis Cowan,Bird,Mountains,Omnivore,Endangered,Europe
+100,Elizabeth Owl,Grant Ayala,Amphibian,Mountains,Carnivore,Near Threatened,South America
+101,Eric Python,Owens Ferguson,Mammal,Rivers,Omnivore,Endangered,North America
+102,Michael Falcon,Edwards Decker,Mammal,Forest,Herbivore,Vulnerable,South America
+103,Rhonda Lizard,Daniels Wood,Bird,Rivers,Omnivore,Near Threatened,Asia
+104,John Puma,Murillo Dunn,Mammal,Mountains,Omnivore,Endangered,Worldwide
+105,Anthony Falcon,Hill Cooper,Bird,Rivers,Carnivore,Critically Endangered,Asia
+106,Melinda Eagle,Hensley Pratt,Amphibian,Rivers,Omnivore,Critically Endangered,South America
+107,Megan Falcon,Jacobs Mcdonald,Fish,Wetlands,Carnivore,Least Concern,Australia
+108,Debra Lizard,Richardson Weber,Reptile,Grasslands,Omnivore,Near Threatened,Asia
+109,Vincent Bear,Miller Smith,Amphibian,Tundra,Carnivore,Near Threatened,North America
+110,Terry Crocodile,Johnson Ross,Fish,Rivers,Carnivore,Critically Endangered,Antarctica
+111,Pamela Puma,Martinez Carter,Reptile,Caves,Carnivore,Critically Endangered,Australia
+112,Ryan Tiger,Cervantes Ayala,Fish,Savannah,Herbivore,Critically Endangered,North America
+113,Curtis Bear,Fisher Owens,Reptile,Savannah,Omnivore,Near Threatened,Antarctica
+114,Sharon Bear,Houston Johnson,Amphibian,Mountains,Carnivore,Endangered,South America
+115,Destiny Python,Li Salazar,Bird,Wetlands,Omnivore,Least Concern,Worldwide
+116,Megan Bear,Wallace Nunez,Reptile,Caves,Herbivore,Vulnerable,South America
+117,Scott Shark,Hughes Marquez,Bird,Desert,Carnivore,Vulnerable,Antarctica
+118,Robert Falcon,Banks Wilson,Bird,Tundra,Omnivore,Least Concern,Europe
+119,Richard Shark,Cordova Neal,Fish,Grasslands,Omnivore,Least Concern,Worldwide
+120,Lisa Python,Clark Hampton,Amphibian,Caves,Carnivore,Vulnerable,South America
+121,Larry Falcon,Nguyen Arellano,Mammal,Desert,Omnivore,Endangered,Europe
+122,Amanda Crocodile,Torres Montoya,Reptile,Desert,Carnivore,Vulnerable,Africa
+123,Nicholas Bear,Rios Burke,Reptile,Desert,Omnivore,Critically Endangered,South America
+124,Heather Eagle,Bradley Alexander,Bird,Desert,Carnivore,Vulnerable,Worldwide
+125,Elizabeth Tiger,Smith Griffin,Reptile,Forest,Carnivore,Endangered,Africa
+126,Edward Shark,Harris Downs,Reptile,Mountains,Herbivore,Endangered,South America
+127,Julia Puma,Campbell Little,Reptile,Grasslands,Omnivore,Least Concern,South America
+128,Anne Shark,Cox Murphy,Amphibian,Grasslands,Carnivore,Critically Endangered,North America
+129,Michael Eagle,Clark Estrada,Reptile,Grasslands,Carnivore,Vulnerable,Antarctica
+130,Christine Eagle,Martinez Pratt,Amphibian,Wetlands,Carnivore,Vulnerable,Australia
+131,Donna Crocodile,Weeks Griffith,Fish,Savannah,Omnivore,Critically Endangered,North America
+132,George Owl,Vasquez Chase,Reptile,Wetlands,Omnivore,Critically Endangered,Antarctica
+133,Michael Tiger,Marshall Hancock,Reptile,Caves,Carnivore,Near Threatened,South America
+134,Jesse Owl,Fields Hanson,Fish,Desert,Herbivore,Critically Endangered,North America
+135,Misty Falcon,Jensen Castro,Mammal,Tundra,Omnivore,Vulnerable,North America
+136,Arthur Tiger,Bennett Hartman,Bird,Forest,Herbivore,Vulnerable,Europe
+137,Kristine Crocodile,Nguyen Peters,Bird,Wetlands,Omnivore,Near Threatened,Asia
+138,Beverly Bear,Williams Weaver,Bird,Grasslands,Omnivore,Critically Endangered,Worldwide
+139,Bryan Owl,Underwood Graham,Bird,Forest,Carnivore,Least Concern,Africa
+140,Samantha Python,Schroeder Ramirez,Bird,Desert,Carnivore,Near Threatened,South America
+141,Christopher Falcon,Perez Washington,Mammal,Rivers,Carnivore,Critically Endangered,Worldwide
+142,David Bear,Bauer Burke,Mammal,Mountains,Carnivore,Vulnerable,Africa
+143,Jerry Bear,Krause Mullins,Mammal,Tundra,Carnivore,Least Concern,Antarctica
+144,Melinda Crocodile,Sanders Jenkins,Fish,Forest,Carnivore,Vulnerable,Australia
+145,Erika Bear,Williams Roberts,Bird,Forest,Carnivore,Vulnerable,Europe
+146,Jennifer Shark,Wang Young,Bird,Wetlands,Herbivore,Vulnerable,Worldwide
+147,Bryan Owl,Friedman Lambert,Bird,Ocean,Omnivore,Least Concern,Africa
+148,Jeremy Bear,Schmidt Hood,Amphibian,Savannah,Carnivore,Endangered,Europe
+149,Donna Owl,Cook Allen,Bird,Caves,Herbivore,Least Concern,Asia
+150,Rachel Falcon,Hickman Watson,Bird,Caves,Carnivore,Least Concern,Asia
+151,Jennifer Shark,Miranda Long,Bird,Tundra,Omnivore,Critically Endangered,North America
+152,John Shark,Terry Dixon,Amphibian,Tundra,Herbivore,Endangered,North America
+153,Janice Crocodile,Rodriguez Cruz,Mammal,Tundra,Carnivore,Critically Endangered,Australia
+154,Rebecca Owl,Fowler Hughes,Fish,Mountains,Omnivore,Endangered,Europe
+155,John Falcon,Swanson Leon,Reptile,Caves,Omnivore,Vulnerable,Australia
+156,Kayla Falcon,Moss Young,Fish,Mountains,Carnivore,Least Concern,South America
+157,Erik Crocodile,Davis Tucker,Fish,Savannah,Omnivore,Least Concern,Australia
+158,Scott Wolf,Spence Graham,Reptile,Forest,Carnivore,Near Threatened,Asia
+159,Stephen Crocodile,Barr Carney,Fish,Forest,Omnivore,Vulnerable,Worldwide
+160,David Shark,Lambert Joseph,Bird,Mountains,Herbivore,Vulnerable,Africa
+161,Crystal Wolf,Morris Ellis,Bird,Rivers,Omnivore,Least Concern,North America
+162,Sean Crocodile,Price Elliott,Reptile,Savannah,Omnivore,Near Threatened,Australia
+163,Alex Falcon,Wagner Hester,Fish,Wetlands,Herbivore,Endangered,South America
+164,Michelle Lizard,Mccormick Duran,Mammal,Forest,Carnivore,Least Concern,Antarctica
+165,Tara Eagle,Baker Baker,Bird,Rivers,Herbivore,Least Concern,Africa
+166,John Owl,Navarro Roth,Fish,Desert,Herbivore,Least Concern,Australia
+167,Robert Puma,Mcmahon Fowler,Mammal,Grasslands,Carnivore,Critically Endangered,Worldwide
+168,Christopher Bear,Henson Mason,Amphibian,Caves,Herbivore,Critically Endangered,Europe
+169,Karen Puma,Smith Frost,Amphibian,Rivers,Omnivore,Endangered,Antarctica
+170,Dustin Wolf,Wilson Gonzalez,Amphibian,Grasslands,Omnivore,Near Threatened,Africa
+171,Jerry Owl,Frazier Jennings,Fish,Savannah,Herbivore,Least Concern,South America
+172,Jeffery Tiger,Cruz Cook,Reptile,Tundra,Omnivore,Critically Endangered,Europe
+173,Johnny Python,Doyle Davis,Mammal,Ocean,Omnivore,Near Threatened,South America
+174,Paul Eagle,Torres Gray,Amphibian,Grasslands,Omnivore,Critically Endangered,Asia
+175,Sara Crocodile,Hess Ferguson,Reptile,Grasslands,Carnivore,Endangered,Worldwide
+176,Brandon Falcon,Fuentes Smith,Fish,Desert,Herbivore,Least Concern,Australia
+177,Emily Eagle,Smith Little,Amphibian,Rivers,Herbivore,Near Threatened,Antarctica
+178,Tanya Eagle,Phillips Harmon,Bird,Savannah,Herbivore,Least Concern,Asia
+179,Derrick Eagle,Hayes Smith,Mammal,Ocean,Herbivore,Near Threatened,Worldwide
+180,Penny Tiger,Kelly Neal,Fish,Wetlands,Herbivore,Critically Endangered,South America
+181,Brooke Lizard,Turner Whitaker,Mammal,Tundra,Herbivore,Endangered,Antarctica
+182,John Tiger,Stanley Cox,Bird,Ocean,Herbivore,Critically Endangered,Asia
+183,Michael Python,Torres Martinez,Reptile,Wetlands,Herbivore,Endangered,Africa
+184,Vicki Puma,Johnson Hill,Fish,Caves,Carnivore,Vulnerable,North America
+185,Pamela Lizard,Johnson Sawyer,Bird,Grasslands,Carnivore,Critically Endangered,Worldwide
+186,Jonathan Falcon,Blanchard Fletcher,Fish,Rivers,Herbivore,Near Threatened,South America
+187,Kyle Owl,Anderson Rice,Reptile,Ocean,Carnivore,Critically Endangered,North America
+188,Jerry Shark,Wells Williams,Bird,Ocean,Omnivore,Vulnerable,Europe
+189,Jacqueline Bear,Stafford Livingston,Fish,Caves,Omnivore,Least Concern,Australia
+190,Dana Lizard,Massey Morales,Bird,Grasslands,Herbivore,Vulnerable,Europe
+191,Melissa Shark,Cortez Jackson,Reptile,Wetlands,Herbivore,Least Concern,Australia
+192,Francisco Wolf,Gordon House,Fish,Caves,Herbivore,Critically Endangered,Worldwide
+193,Joshua Eagle,Morton Conner,Reptile,Mountains,Herbivore,Critically Endangered,Worldwide
+194,Kristen Lizard,Cole Fisher,Fish,Caves,Carnivore,Near Threatened,North America
+195,Anita Eagle,Lee Rice,Mammal,Desert,Herbivore,Vulnerable,South America
+196,Colleen Tiger,Carlson Boyle,Amphibian,Desert,Carnivore,Endangered,Antarctica
+197,April Eagle,Jones Foster,Bird,Savannah,Omnivore,Near Threatened,South America
+198,Tracey Lizard,Jones Nelson,Mammal,Forest,Herbivore,Endangered,Australia
+199,Matthew Crocodile,Mitchell Taylor,Fish,Forest,Herbivore,Near Threatened,Asia
+200,Kendra Crocodile,Hernandez Ruiz,Fish,Rivers,Carnivore,Endangered,South America
+201,Nicole Eagle,Ellis Simpson,Reptile,Wetlands,Herbivore,Critically Endangered,Worldwide
+202,John Shark,Swanson Baldwin,Reptile,Forest,Omnivore,Least Concern,Asia
+203,Andrew Falcon,Miller Guerra,Mammal,Ocean,Herbivore,Critically Endangered,Asia
+204,Samantha Tiger,White Burgess,Bird,Desert,Omnivore,Least Concern,South America
+205,Tracey Shark,Watts Avila,Bird,Savannah,Carnivore,Least Concern,Asia
+206,Alexander Eagle,Burns Flores,Mammal,Rivers,Carnivore,Endangered,South America
+207,Terri Eagle,Turner Cole,Fish,Tundra,Herbivore,Vulnerable,Australia
+208,Tonya Python,Boyd Conner,Amphibian,Savannah,Herbivore,Near Threatened,Europe
+209,Jessica Bear,Todd Thomas,Amphibian,Forest,Carnivore,Vulnerable,Africa
+210,Robert Falcon,Nelson Smith,Mammal,Desert,Herbivore,Vulnerable,Asia
+211,Mary Falcon,Luna Mayer,Mammal,Rivers,Carnivore,Near Threatened,Australia
+212,Eddie Crocodile,Combs Smith,Bird,Grasslands,Carnivore,Endangered,Australia
+213,Brenda Owl,Gardner Dickerson,Amphibian,Wetlands,Omnivore,Critically Endangered,Africa
+214,Jennifer Shark,Day Greene,Reptile,Tundra,Omnivore,Near Threatened,Australia
+215,Diana Crocodile,Nelson Vasquez,Reptile,Desert,Omnivore,Endangered,South America
+216,Jamie Shark,Medina Edwards,Fish,Grasslands,Omnivore,Critically Endangered,Europe
+217,Connie Eagle,Norris Reynolds,Fish,Savannah,Omnivore,Near Threatened,Europe
+218,Hannah Wolf,Ochoa Williams,Bird,Desert,Carnivore,Near Threatened,Africa
+219,Sandra Python,Gonzalez Smith,Fish,Mountains,Herbivore,Vulnerable,North America
+220,Kimberly Lizard,Roberts Decker,Mammal,Rivers,Carnivore,Critically Endangered,South America
+221,Madison Owl,Edwards Livingston,Mammal,Grasslands,Omnivore,Endangered,Africa
+222,Thomas Python,Baker Alexander,Reptile,Wetlands,Omnivore,Endangered,Africa
+223,Julie Lizard,Charles Keller,Fish,Tundra,Omnivore,Vulnerable,Africa
+224,Janet Falcon,Freeman Mcdonald,Mammal,Ocean,Omnivore,Least Concern,Australia
+225,Andrew Falcon,Thomas Watts,Bird,Desert,Omnivore,Vulnerable,Asia
+226,Jeffrey Eagle,Baxter Johnson,Fish,Grasslands,Carnivore,Critically Endangered,North America
+227,George Owl,Chavez Anderson,Bird,Desert,Omnivore,Critically Endangered,Australia
+228,Lauren Owl,Larson Snyder,Fish,Rivers,Omnivore,Endangered,Africa
+229,Daniel Bear,Leach Friedman,Bird,Caves,Omnivore,Least Concern,Africa
+230,Dylan Puma,Martinez Dominguez,Reptile,Caves,Herbivore,Critically Endangered,Antarctica
+231,Victoria Bear,Fitzgerald Greer,Reptile,Grasslands,Carnivore,Near Threatened,North America
+232,Deborah Eagle,Weber Hensley,Mammal,Tundra,Herbivore,Endangered,Europe
+233,Ryan Wolf,Johnston Brown,Bird,Rivers,Omnivore,Near Threatened,Worldwide
+234,Lydia Falcon,Salas Evans,Amphibian,Caves,Omnivore,Critically Endangered,Europe
+235,Devin Lizard,Rose Mcdowell,Reptile,Wetlands,Herbivore,Vulnerable,Asia
+236,Cindy Wolf,Giles Monroe,Reptile,Grasslands,Herbivore,Least Concern,North America
+237,Connie Eagle,Reed Booker,Amphibian,Grasslands,Carnivore,Least Concern,Africa
+238,Ronald Wolf,Doyle Wolfe,Reptile,Desert,Omnivore,Endangered,Africa
+239,Mark Bear,Tran Clarke,Reptile,Wetlands,Herbivore,Endangered,Antarctica
+240,Cindy Python,Meyer Ware,Fish,Tundra,Omnivore,Critically Endangered,Australia
+241,Alec Wolf,Hall Thomas,Reptile,Grasslands,Herbivore,Vulnerable,North America
+242,David Bear,Rosario Thomas,Amphibian,Wetlands,Carnivore,Critically Endangered,Australia
+243,Nancy Puma,Schneider Wilkerson,Amphibian,Desert,Carnivore,Near Threatened,Antarctica
+244,Thomas Owl,Gray Shaffer,Bird,Desert,Omnivore,Critically Endangered,North America
+245,Carol Owl,Wallace Jones,Reptile,Wetlands,Carnivore,Critically Endangered,Australia
+246,Timothy Shark,Glover Lee,Bird,Mountains,Herbivore,Vulnerable,Australia
+247,Lisa Tiger,Coleman Fernandez,Bird,Grasslands,Carnivore,Endangered,Antarctica
+248,Eric Shark,Rodriguez Bennett,Bird,Ocean,Herbivore,Critically Endangered,Worldwide
+249,Steven Shark,Howard Pope,Amphibian,Wetlands,Herbivore,Least Concern,North America
+250,Eric Eagle,Turner Ford,Mammal,Savannah,Carnivore,Critically Endangered,Africa
+251,Meagan Shark,Poole Foster,Amphibian,Grasslands,Carnivore,Vulnerable,North America
+252,Lindsey Lizard,Washington Carroll,Fish,Mountains,Omnivore,Vulnerable,North America
+253,Nicolas Eagle,Rodriguez Whitaker,Fish,Savannah,Herbivore,Least Concern,South America
+254,Karen Falcon,Kidd Simmons,Reptile,Wetlands,Omnivore,Endangered,Australia
+255,Michael Owl,Smith Murphy,Bird,Ocean,Herbivore,Near Threatened,North America
+256,Crystal Eagle,Johnson Smith,Bird,Wetlands,Herbivore,Critically Endangered,Worldwide
+257,Michael Owl,Madden Mullins,Amphibian,Forest,Carnivore,Near Threatened,Worldwide
+258,Frank Falcon,Lee Thomas,Amphibian,Tundra,Carnivore,Near Threatened,Antarctica
+259,Eugene Owl,Gould Torres,Fish,Wetlands,Herbivore,Least Concern,Worldwide
+260,Margaret Eagle,Brown Hayes,Fish,Tundra,Herbivore,Endangered,Worldwide
+261,Ashley Lizard,Kim Lee,Fish,Grasslands,Omnivore,Critically Endangered,South America
+262,Andrea Falcon,Dominguez Craig,Amphibian,Savannah,Carnivore,Least Concern,Africa
+263,Derek Shark,Morris Gregory,Fish,Desert,Herbivore,Vulnerable,Worldwide
+264,Michael Bear,Lopez Cruz,Reptile,Grasslands,Omnivore,Near Threatened,Asia
+265,Meghan Shark,Lester Lyons,Fish,Rivers,Omnivore,Least Concern,Antarctica
+266,Edgar Eagle,Smith Anderson,Reptile,Wetlands,Herbivore,Least Concern,Africa
+267,Joshua Lizard,Cooper Wells,Mammal,Wetlands,Omnivore,Critically Endangered,Europe
+268,Holly Bear,Mata Myers,Reptile,Grasslands,Herbivore,Critically Endangered,Antarctica
+269,Felicia Tiger,Hernandez Liu,Amphibian,Mountains,Herbivore,Endangered,Europe
+270,Betty Crocodile,Collins Henson,Mammal,Wetlands,Carnivore,Critically Endangered,Worldwide
+271,Troy Falcon,Scott Garrett,Amphibian,Forest,Omnivore,Least Concern,Antarctica
+272,Courtney Shark,Wheeler Haley,Amphibian,Caves,Omnivore,Vulnerable,North America
+273,Walter Python,Bates Roberts,Mammal,Forest,Omnivore,Vulnerable,Worldwide
+274,Ruth Crocodile,White Griffith,Mammal,Ocean,Herbivore,Critically Endangered,Worldwide
+275,Ashley Wolf,Peterson Henry,Reptile,Ocean,Herbivore,Vulnerable,Australia
+276,Beth Bear,Diaz Hernandez,Reptile,Rivers,Omnivore,Near Threatened,Worldwide
+277,Stephen Crocodile,Velez Dillon,Fish,Caves,Omnivore,Endangered,North America
+278,Brian Shark,Hunt Klein,Amphibian,Savannah,Carnivore,Critically Endangered,Africa
+279,Kelli Python,Johnson Bailey,Fish,Mountains,Herbivore,Least Concern,South America
+280,Nicole Puma,Thomas Smith,Fish,Grasslands,Omnivore,Critically Endangered,Europe
+281,Jason Shark,Hensley Harrington,Mammal,Grasslands,Herbivore,Near Threatened,Africa
+282,Robert Owl,Nichols Ellis,Fish,Wetlands,Herbivore,Vulnerable,Africa
+283,Jennifer Falcon,Hodges Jackson,Amphibian,Grasslands,Herbivore,Endangered,Africa
+284,Susan Python,Andrews Schmitt,Bird,Desert,Carnivore,Endangered,South America
+285,Michael Tiger,Rodriguez Doyle,Reptile,Grasslands,Omnivore,Endangered,Australia
+286,Dave Crocodile,Williams Brown,Reptile,Savannah,Herbivore,Critically Endangered,Africa
+287,Kimberly Owl,Gross Raymond,Reptile,Forest,Herbivore,Vulnerable,Australia
+288,David Lizard,Howard Walker,Reptile,Rivers,Carnivore,Least Concern,Worldwide
+289,Krista Owl,Moore Wood,Reptile,Wetlands,Herbivore,Vulnerable,Asia
+290,Jeffrey Tiger,Pacheco Harris,Amphibian,Tundra,Omnivore,Endangered,Asia
+291,Brent Shark,Ruiz Oliver,Amphibian,Desert,Herbivore,Least Concern,North America
+292,Stacey Eagle,Miller Williams,Reptile,Grasslands,Omnivore,Critically Endangered,Asia
+293,Derek Puma,Dunlap Glover,Amphibian,Wetlands,Herbivore,Critically Endangered,Antarctica
+294,Elizabeth Eagle,Kane Arias,Reptile,Tundra,Herbivore,Least Concern,Australia
+295,Richard Bear,Hays Hess,Fish,Grasslands,Omnivore,Least Concern,North America
+296,Tracy Eagle,Williams Webster,Fish,Tundra,Omnivore,Endangered,Africa
+297,Jacqueline Lizard,Davis Solis,Reptile,Wetlands,Herbivore,Endangered,Asia
+298,Melissa Tiger,Adams Wiggins,Fish,Wetlands,Carnivore,Near Threatened,South America
+299,Darin Shark,Stanton Kennedy,Fish,Caves,Carnivore,Near Threatened,Worldwide
+300,Jasmine Python,Harris Young,Mammal,Grasslands,Herbivore,Vulnerable,North America
+301,Caleb Bear,Hendrix Nelson,Fish,Forest,Omnivore,Near Threatened,South America
+302,Jacqueline Crocodile,Taylor Dyer,Reptile,Tundra,Omnivore,Near Threatened,Antarctica
+303,Stacy Wolf,Banks Mason,Reptile,Savannah,Omnivore,Least Concern,Europe
+304,Michael Wolf,Young Torres,Amphibian,Mountains,Omnivore,Critically Endangered,Australia
+305,Mary Puma,Fernandez Jones,Amphibian,Rivers,Omnivore,Near Threatened,Europe
+306,David Puma,Cruz Mcdonald,Amphibian,Ocean,Carnivore,Vulnerable,South America
+307,Shelia Owl,Noble Carroll,Mammal,Ocean,Omnivore,Vulnerable,Africa
+308,Sara Wolf,Walker Burns,Reptile,Savannah,Omnivore,Critically Endangered,Asia
+309,Casey Eagle,Campos Farrell,Mammal,Ocean,Carnivore,Least Concern,Europe
+310,Krystal Puma,Wright Baker,Reptile,Desert,Omnivore,Near Threatened,Antarctica
+311,William Tiger,Parker Robertson,Reptile,Forest,Herbivore,Vulnerable,Asia
+312,Steven Owl,Torres Navarro,Reptile,Forest,Herbivore,Near Threatened,South America
+313,Heather Falcon,Bauer Farrell,Mammal,Grasslands,Herbivore,Endangered,Australia
+314,Melissa Falcon,Orozco Wyatt,Bird,Wetlands,Carnivore,Endangered,Europe
+315,David Falcon,Dawson Sullivan,Bird,Grasslands,Herbivore,Least Concern,Africa
+316,Amy Falcon,Elliott Jenkins,Mammal,Caves,Carnivore,Near Threatened,Africa
+317,Jennifer Wolf,Simpson Davis,Amphibian,Caves,Carnivore,Vulnerable,Africa
+318,Courtney Bear,Escobar Coleman,Mammal,Wetlands,Omnivore,Endangered,Australia
+319,Nathan Python,Adams Ray,Bird,Caves,Carnivore,Endangered,Africa
+320,Ryan Python,Franklin Wilson,Fish,Mountains,Omnivore,Endangered,Africa
+321,Michelle Crocodile,Garza Alexander,Amphibian,Forest,Carnivore,Critically Endangered,South America
+322,Sheri Eagle,Velez Holmes,Bird,Tundra,Herbivore,Least Concern,North America
+323,Julia Python,Watson Day,Reptile,Caves,Carnivore,Least Concern,Worldwide
+324,Samantha Eagle,Martinez Walker,Fish,Mountains,Omnivore,Endangered,Antarctica
+325,Leah Eagle,King Nelson,Mammal,Tundra,Carnivore,Least Concern,South America
+326,Jeremy Tiger,Johnson Gonzalez,Amphibian,Mountains,Carnivore,Near Threatened,South America
+327,Julie Falcon,Wolf Rose,Mammal,Caves,Omnivore,Least Concern,Antarctica
+328,Kyle Shark,Elliott Herman,Amphibian,Rivers,Carnivore,Endangered,Africa
+329,Joseph Puma,Hurst Frazier,Mammal,Tundra,Herbivore,Vulnerable,Antarctica
+330,Miguel Lizard,Golden Cole,Bird,Ocean,Herbivore,Near Threatened,Antarctica
+331,Marilyn Eagle,Carr Melton,Reptile,Wetlands,Carnivore,Critically Endangered,South America
+332,Shelley Wolf,Boyd Gray,Mammal,Desert,Herbivore,Vulnerable,South America
+333,Jennifer Bear,Wright Donovan,Mammal,Grasslands,Omnivore,Endangered,Africa
+334,Maria Lizard,Washington Gomez,Bird,Forest,Omnivore,Endangered,Worldwide
+335,Leroy Tiger,Henry Wilkerson,Amphibian,Grasslands,Carnivore,Critically Endangered,Europe
+336,Rachel Owl,Flynn Solis,Mammal,Rivers,Herbivore,Critically Endangered,South America
+337,Peter Bear,Miller Foster,Amphibian,Grasslands,Herbivore,Least Concern,Antarctica
+338,Christina Lizard,Payne Watkins,Bird,Desert,Herbivore,Endangered,Europe
+339,Bryan Python,Brown Williams,Amphibian,Grasslands,Omnivore,Near Threatened,South America
+340,Maria Tiger,Hunt Dickerson,Fish,Forest,Herbivore,Vulnerable,Australia
+341,Destiny Puma,Herring Pope,Bird,Desert,Omnivore,Vulnerable,Worldwide
+342,Jose Shark,Yates Sullivan,Amphibian,Desert,Carnivore,Near Threatened,Australia
+343,Christopher Tiger,Young Rivera,Bird,Wetlands,Omnivore,Endangered,Australia
+344,Nicole Tiger,Sims Keith,Bird,Caves,Omnivore,Endangered,Africa
+345,Kimberly Shark,Jones Smith,Amphibian,Rivers,Carnivore,Vulnerable,Worldwide
+346,Taylor Python,Wilson Ayala,Bird,Desert,Herbivore,Least Concern,Asia
+347,Stacy Crocodile,Lewis Carroll,Amphibian,Rivers,Omnivore,Near Threatened,Asia
+348,Eric Tiger,Diaz Hicks,Fish,Caves,Carnivore,Critically Endangered,Europe
+349,Christopher Python,Garcia Fleming,Fish,Ocean,Carnivore,Least Concern,Worldwide
+350,Cameron Crocodile,Hughes Smith,Amphibian,Ocean,Carnivore,Endangered,Worldwide
+351,Hailey Eagle,Clay Beck,Amphibian,Grasslands,Omnivore,Vulnerable,Antarctica
+352,Jennifer Eagle,Taylor Ruiz,Bird,Caves,Herbivore,Near Threatened,Worldwide
+353,Keith Owl,Mccarthy Jones,Amphibian,Tundra,Carnivore,Endangered,Australia
+354,Matthew Wolf,Watson Wilson,Amphibian,Caves,Omnivore,Endangered,North America
+355,Jennifer Bear,Thompson Cross,Bird,Mountains,Omnivore,Endangered,Europe
+356,Kyle Crocodile,Brown Wise,Bird,Mountains,Omnivore,Critically Endangered,Africa
+357,Michael Wolf,Smith Morse,Amphibian,Forest,Herbivore,Near Threatened,Antarctica
+358,Stacey Falcon,Mccarty Thomas,Fish,Rivers,Herbivore,Least Concern,Australia
+359,Taylor Shark,Meyer Wright,Fish,Rivers,Carnivore,Critically Endangered,Europe
+360,Traci Crocodile,King Stephenson,Reptile,Grasslands,Carnivore,Least Concern,Europe
+361,Christopher Bear,Berry Carroll,Bird,Desert,Herbivore,Near Threatened,North America
+362,John Python,Reynolds Jackson,Mammal,Caves,Carnivore,Endangered,South America
+363,Melinda Falcon,Morales Wilson,Bird,Tundra,Carnivore,Least Concern,North America
+364,James Bear,Johnson Cunningham,Bird,Tundra,Omnivore,Endangered,Africa
+365,Maria Lizard,Stevens Brooks,Bird,Grasslands,Omnivore,Vulnerable,Worldwide
+366,Jill Eagle,Bailey Wolfe,Fish,Mountains,Carnivore,Endangered,Australia
+367,Stephanie Lizard,Kim Adams,Amphibian,Mountains,Herbivore,Near Threatened,North America
+368,James Eagle,Williams Collier,Bird,Grasslands,Omnivore,Least Concern,Africa
+369,Melissa Wolf,White Morales,Fish,Wetlands,Omnivore,Critically Endangered,Antarctica
+370,Chad Owl,Hansen Cunningham,Bird,Tundra,Omnivore,Vulnerable,Australia
+371,Christy Bear,Freeman Ramirez,Reptile,Tundra,Omnivore,Critically Endangered,North America
+372,Patrick Bear,Shaw Underwood,Fish,Mountains,Herbivore,Critically Endangered,Asia
+373,Allen Wolf,Welch Meadows,Mammal,Mountains,Herbivore,Critically Endangered,Australia
+374,Christopher Shark,Le Wheeler,Mammal,Desert,Carnivore,Least Concern,Asia
+375,Latasha Shark,Thompson Kemp,Bird,Forest,Herbivore,Least Concern,Asia
+376,Laura Eagle,Thompson Kirk,Amphibian,Tundra,Omnivore,Least Concern,North America
+377,John Tiger,Blake Brady,Reptile,Savannah,Omnivore,Least Concern,Antarctica
+378,Christine Shark,Edwards Thomas,Bird,Tundra,Omnivore,Near Threatened,Asia
+379,John Crocodile,Malone Larson,Amphibian,Rivers,Herbivore,Endangered,North America
+380,Kristi Wolf,Mcgee Smith,Amphibian,Ocean,Carnivore,Vulnerable,Australia
+381,Rhonda Shark,Campbell Hogan,Reptile,Rivers,Herbivore,Critically Endangered,Africa
+382,Pamela Puma,Miller Carson,Bird,Forest,Carnivore,Near Threatened,Asia
+383,James Eagle,Thomas Morris,Fish,Tundra,Carnivore,Vulnerable,Asia
+384,Christopher Eagle,Mason Horton,Bird,Caves,Carnivore,Critically Endangered,Australia
+385,Elizabeth Bear,Cain Christensen,Amphibian,Wetlands,Herbivore,Endangered,Africa
+386,Kristin Falcon,Baker George,Mammal,Caves,Herbivore,Least Concern,Antarctica
+387,Susan Falcon,Montoya Russell,Bird,Rivers,Omnivore,Endangered,Worldwide
+388,Veronica Lizard,Ramirez Patterson,Reptile,Desert,Omnivore,Least Concern,South America
+389,Tyler Shark,Jenkins Soto,Reptile,Ocean,Herbivore,Critically Endangered,Australia
+390,Kayla Puma,Hudson Vance,Bird,Tundra,Carnivore,Endangered,Asia
+391,Michael Shark,Williams Baker,Bird,Savannah,Carnivore,Near Threatened,Antarctica
+392,John Wolf,Johnson Leonard,Fish,Desert,Herbivore,Critically Endangered,Asia
+393,Megan Falcon,Rodriguez Alvarado,Reptile,Wetlands,Herbivore,Vulnerable,Antarctica
+394,Marc Crocodile,Hansen Middleton,Mammal,Ocean,Carnivore,Least Concern,Worldwide
+395,Melanie Wolf,Williams Smith,Bird,Forest,Carnivore,Endangered,Worldwide
+396,Morgan Eagle,Reynolds Silva,Reptile,Wetlands,Herbivore,Near Threatened,Australia
+397,Shannon Puma,Yang Duncan,Amphibian,Rivers,Omnivore,Least Concern,South America
+398,Brian Tiger,Rojas George,Amphibian,Caves,Carnivore,Least Concern,South America
+399,William Falcon,Anderson Marquez,Bird,Savannah,Herbivore,Least Concern,Europe
+400,Joshua Crocodile,Cooper Cohen,Reptile,Mountains,Herbivore,Least Concern,Europe
+401,Tiffany Tiger,Gonzalez Jenkins,Fish,Mountains,Omnivore,Endangered,North America
+402,Kyle Crocodile,Alvarado Hood,Bird,Ocean,Carnivore,Vulnerable,Australia
+403,Michael Bear,Walker Johnson,Fish,Desert,Omnivore,Vulnerable,Asia
+404,Heather Python,Freeman Williams,Bird,Caves,Carnivore,Vulnerable,Europe
+405,David Wolf,Brown Hernandez,Amphibian,Tundra,Herbivore,Near Threatened,Africa
+406,Amanda Lizard,Berger Jennings,Reptile,Rivers,Omnivore,Near Threatened,Asia
+407,Kathryn Lizard,Woods Solomon,Bird,Savannah,Herbivore,Critically Endangered,Worldwide
+408,Timothy Owl,Sullivan Owen,Bird,Ocean,Omnivore,Endangered,Europe
+409,Aaron Shark,Wright Smith,Bird,Ocean,Herbivore,Least Concern,Europe
+410,Lisa Crocodile,Lewis Gross,Bird,Mountains,Omnivore,Vulnerable,North America
+411,Juan Tiger,Herrera Perkins,Bird,Wetlands,Herbivore,Least Concern,Asia
+412,Douglas Owl,Allen Brown,Mammal,Wetlands,Carnivore,Critically Endangered,North America
+413,Raymond Eagle,Harris Burns,Reptile,Wetlands,Herbivore,Near Threatened,South America
+414,Ralph Eagle,Ibarra Villarreal,Reptile,Forest,Omnivore,Least Concern,Europe
+415,William Wolf,Vazquez Cline,Mammal,Rivers,Carnivore,Near Threatened,Worldwide
+416,David Falcon,Allison Williams,Fish,Wetlands,Carnivore,Vulnerable,Europe
+417,Jennifer Bear,Moore Moore,Mammal,Ocean,Omnivore,Least Concern,Europe
+418,Priscilla Eagle,Ryan Soto,Reptile,Savannah,Omnivore,Vulnerable,Australia
+419,Jessica Crocodile,Spencer Payne,Bird,Mountains,Carnivore,Endangered,Worldwide
+420,Julie Crocodile,White Sheppard,Reptile,Ocean,Omnivore,Endangered,Asia
+421,Roberto Shark,Ayala Rasmussen,Mammal,Desert,Omnivore,Endangered,Asia
+422,Albert Wolf,Morgan Newton,Amphibian,Savannah,Carnivore,Critically Endangered,Africa
+423,Rebecca Wolf,Vasquez Bird,Fish,Tundra,Carnivore,Least Concern,Antarctica
+424,Jessica Bear,Tanner Barker,Reptile,Tundra,Herbivore,Critically Endangered,Asia
+425,Sandra Lizard,Cantu Zuniga,Fish,Forest,Herbivore,Endangered,Europe
+426,Lindsey Tiger,Juarez Miranda,Amphibian,Tundra,Carnivore,Least Concern,Worldwide
+427,Donald Wolf,Cunningham Hall,Reptile,Rivers,Carnivore,Endangered,Europe
+428,Kristi Python,Graham Cooke,Reptile,Forest,Carnivore,Endangered,Africa
+429,Erin Crocodile,Holloway Lewis,Amphibian,Savannah,Omnivore,Near Threatened,Europe
+430,Misty Falcon,Weber Sanders,Amphibian,Forest,Carnivore,Critically Endangered,Europe
+431,Adam Falcon,Nelson Scott,Reptile,Rivers,Omnivore,Least Concern,Antarctica
+432,Jonathan Shark,Watson Elliott,Reptile,Desert,Omnivore,Near Threatened,North America
+433,William Puma,Gonzalez Murray,Reptile,Savannah,Herbivore,Critically Endangered,South America
+434,Jeremy Eagle,Shea Wagner,Bird,Rivers,Omnivore,Near Threatened,Worldwide
+435,Nicholas Bear,Clark Weaver,Reptile,Tundra,Omnivore,Vulnerable,Africa
+436,Pamela Tiger,Stanley Jordan,Mammal,Ocean,Omnivore,Endangered,Europe
+437,Frances Wolf,Gomez Aguirre,Mammal,Savannah,Carnivore,Least Concern,Worldwide
+438,Kevin Shark,Perkins Fox,Bird,Mountains,Omnivore,Near Threatened,Worldwide
+439,Donna Crocodile,Watson Tate,Bird,Grasslands,Omnivore,Vulnerable,Antarctica
+440,Kimberly Tiger,Burnett Bradshaw,Reptile,Savannah,Carnivore,Least Concern,Asia
+441,Nicole Crocodile,Mullins Trevino,Reptile,Savannah,Carnivore,Vulnerable,Antarctica
+442,Michelle Python,James Riley,Amphibian,Desert,Herbivore,Vulnerable,North America
+443,Billy Crocodile,Aguilar Bradley,Bird,Caves,Herbivore,Endangered,South America
+444,Benjamin Falcon,Woodard Brown,Bird,Ocean,Herbivore,Near Threatened,South America
+445,Tony Crocodile,Howard Flores,Fish,Ocean,Herbivore,Critically Endangered,Africa
+446,Rachel Shark,Weaver Lindsey,Bird,Grasslands,Carnivore,Vulnerable,Antarctica
+447,Melanie Puma,Long Colon,Amphibian,Savannah,Carnivore,Least Concern,Antarctica
+448,Tiffany Wolf,Potter Brown,Bird,Desert,Omnivore,Least Concern,Antarctica
+449,David Bear,Mendez Walker,Mammal,Savannah,Omnivore,Least Concern,Australia
+450,Brandi Tiger,Douglas Phillips,Mammal,Rivers,Omnivore,Endangered,North America
+451,Sandra Eagle,Woods Gomez,Reptile,Ocean,Omnivore,Near Threatened,Asia
+452,Joshua Lizard,Pope Peterson,Fish,Grasslands,Herbivore,Vulnerable,Worldwide
+453,Zachary Python,Davis Mcclure,Amphibian,Ocean,Omnivore,Critically Endangered,Africa
+454,Eric Wolf,Edwards Franco,Mammal,Savannah,Herbivore,Vulnerable,Europe
+455,William Shark,Jackson Orr,Amphibian,Desert,Omnivore,Least Concern,Worldwide
+456,Patrick Bear,Nelson Prince,Mammal,Desert,Carnivore,Critically Endangered,Europe
+457,Charles Lizard,Nguyen Gibson,Reptile,Grasslands,Omnivore,Critically Endangered,Worldwide
+458,Brooke Puma,Robinson Jackson,Mammal,Rivers,Herbivore,Endangered,Australia
+459,Evan Python,Strickland Cline,Reptile,Grasslands,Carnivore,Near Threatened,South America
+460,John Tiger,Moss Cook,Reptile,Wetlands,Omnivore,Near Threatened,Africa
+461,Steven Tiger,Williams Kirby,Fish,Mountains,Omnivore,Endangered,Antarctica
+462,Javier Owl,Haley Olson,Bird,Wetlands,Omnivore,Critically Endangered,Worldwide
+463,Michael Owl,Martin Cook,Mammal,Tundra,Herbivore,Vulnerable,Worldwide
+464,Tiffany Shark,Patton Kim,Reptile,Grasslands,Herbivore,Near Threatened,South America
+465,Pam Crocodile,Alexander Ramsey,Reptile,Ocean,Herbivore,Endangered,Antarctica
+466,Matthew Lizard,Knox Hill,Fish,Mountains,Omnivore,Critically Endangered,Antarctica
+467,Elizabeth Python,Black Johnson,Amphibian,Grasslands,Herbivore,Critically Endangered,North America
+468,Austin Wolf,Wells Moreno,Reptile,Rivers,Herbivore,Vulnerable,Asia
+469,Samantha Bear,Dixon Orr,Amphibian,Wetlands,Carnivore,Near Threatened,Worldwide
+470,Mary Crocodile,Galloway Noble,Reptile,Tundra,Herbivore,Vulnerable,Europe
+471,Sonia Eagle,Cunningham Reynolds,Bird,Grasslands,Omnivore,Critically Endangered,Asia
+472,Charles Shark,Jones Francis,Bird,Caves,Herbivore,Least Concern,Europe
+473,Linda Owl,Wright Thomas,Reptile,Desert,Herbivore,Vulnerable,Antarctica
+474,Sara Python,Moreno Lyons,Bird,Grasslands,Carnivore,Vulnerable,South America
+475,Ralph Python,Villegas Rodriguez,Bird,Savannah,Herbivore,Vulnerable,Australia
+476,Alexis Owl,Kim Sullivan,Fish,Grasslands,Carnivore,Endangered,Asia
+477,Eric Wolf,Williams Nguyen,Bird,Forest,Omnivore,Near Threatened,Antarctica
+478,John Owl,Williams Aguilar,Amphibian,Wetlands,Omnivore,Near Threatened,Europe
+479,Gina Owl,Baker Fisher,Mammal,Rivers,Carnivore,Endangered,Antarctica
+480,Cindy Crocodile,Ferguson Stewart,Fish,Caves,Omnivore,Endangered,Asia
+481,Joseph Tiger,Rojas Smith,Reptile,Savannah,Omnivore,Near Threatened,Antarctica
+482,Joseph Bear,Burns Wheeler,Bird,Caves,Omnivore,Least Concern,Europe
+483,John Wolf,Sharp Bryant,Reptile,Forest,Carnivore,Vulnerable,Europe
+484,Kelly Owl,Bowen Cunningham,Fish,Savannah,Herbivore,Vulnerable,Asia
+485,Miguel Wolf,Fowler Shea,Fish,Desert,Herbivore,Endangered,North America
+486,Jamie Lizard,Ortiz Schneider,Mammal,Desert,Omnivore,Vulnerable,Africa
+487,Dana Wolf,Long Smith,Amphibian,Wetlands,Herbivore,Near Threatened,North America
+488,Michael Owl,Smith Ellis,Amphibian,Wetlands,Herbivore,Near Threatened,North America
+489,Melanie Wolf,Noble Mercado,Reptile,Ocean,Omnivore,Least Concern,Worldwide
+490,Emma Tiger,Sullivan Reed,Mammal,Savannah,Herbivore,Critically Endangered,South America
+491,Daniel Bear,Miles Anderson,Mammal,Caves,Herbivore,Endangered,Antarctica
+492,Mitchell Tiger,Taylor Washington,Amphibian,Grasslands,Carnivore,Critically Endangered,Worldwide
+493,Drew Wolf,King Hale,Reptile,Tundra,Herbivore,Near Threatened,Antarctica
+494,Taylor Eagle,Wong Arnold,Reptile,Desert,Carnivore,Vulnerable,Australia
+495,Jennifer Owl,Craig Thomas,Amphibian,Wetlands,Herbivore,Vulnerable,Asia
+496,Melissa Owl,Weaver Carpenter,Bird,Tundra,Herbivore,Near Threatened,Worldwide
+497,Jennifer Eagle,Jones White,Mammal,Grasslands,Carnivore,Endangered,South America
+498,Raymond Puma,Donaldson Clark,Mammal,Forest,Omnivore,Least Concern,North America
+499,George Crocodile,Morris Lee,Reptile,Ocean,Carnivore,Endangered,Asia
+500,Pamela Crocodile,Giles Galloway,Fish,Grasslands,Omnivore,Least Concern,South America
+501,Jennifer Lizard,Robinson Young,Bird,Grasslands,Herbivore,Critically Endangered,Africa
+502,Angela Crocodile,Carpenter Burton,Reptile,Ocean,Omnivore,Least Concern,North America
+503,Anna Shark,Mccarty Romero,Bird,Tundra,Carnivore,Least Concern,Africa
+504,Shawn Falcon,Gonzalez Moss,Reptile,Caves,Omnivore,Endangered,South America
+505,Katherine Python,Wilkins Valdez,Reptile,Caves,Herbivore,Near Threatened,South America
+506,Olivia Shark,Flores Hurley,Fish,Wetlands,Omnivore,Vulnerable,Africa
+507,Aaron Shark,Gonzalez Fitzgerald,Fish,Mountains,Carnivore,Near Threatened,North America
+508,Zachary Falcon,Hall Brown,Reptile,Desert,Omnivore,Near Threatened,North America
+509,Cynthia Python,Williams Long,Fish,Caves,Omnivore,Least Concern,Europe
+510,Bridget Falcon,Osborn Williams,Reptile,Grasslands,Herbivore,Endangered,Asia
+511,Deborah Eagle,Green White,Amphibian,Grasslands,Herbivore,Endangered,Antarctica
+512,Zachary Crocodile,Peterson Wallace,Bird,Caves,Carnivore,Least Concern,South America
+513,Laura Tiger,Arnold Mcdonald,Mammal,Tundra,Carnivore,Least Concern,Antarctica
+514,Bobby Python,Garcia Russo,Bird,Ocean,Omnivore,Endangered,South America
+515,John Shark,Mcguire Garner,Fish,Ocean,Omnivore,Vulnerable,South America
+516,Andrew Wolf,Harris Pham,Bird,Caves,Omnivore,Least Concern,Australia
+517,John Lizard,Morales Porter,Reptile,Grasslands,Omnivore,Critically Endangered,Europe
+518,Susan Shark,Copeland Payne,Amphibian,Caves,Omnivore,Critically Endangered,Europe
+519,Karen Tiger,White Goodwin,Bird,Mountains,Omnivore,Near Threatened,Antarctica
+520,Jessica Falcon,Weaver Zuniga,Reptile,Caves,Omnivore,Endangered,North America
+521,Scott Tiger,Jones Lee,Amphibian,Desert,Herbivore,Critically Endangered,Africa
+522,Robert Python,Mcfarland Glover,Mammal,Savannah,Carnivore,Least Concern,South America
+523,Lisa Lizard,Hernandez Taylor,Fish,Tundra,Carnivore,Near Threatened,Asia
+524,Shannon Eagle,Adkins White,Fish,Caves,Herbivore,Critically Endangered,Australia
+525,Miguel Bear,Shepard Lawson,Fish,Mountains,Carnivore,Least Concern,Antarctica
+526,Shelly Bear,Price Ayala,Mammal,Tundra,Herbivore,Near Threatened,Europe
+527,Melissa Puma,Davis Kelly,Mammal,Savannah,Herbivore,Near Threatened,Asia
+528,Jeffery Lizard,Williams Austin,Amphibian,Grasslands,Herbivore,Critically Endangered,Asia
+529,Alexander Owl,Wilson Ho,Mammal,Tundra,Herbivore,Critically Endangered,North America
+530,Andrew Eagle,Rodriguez Smith,Reptile,Mountains,Herbivore,Vulnerable,Antarctica
+531,Austin Falcon,Horton Dillon,Amphibian,Rivers,Carnivore,Least Concern,Africa
+532,Sarah Puma,Miller Cordova,Bird,Wetlands,Omnivore,Near Threatened,Africa
+533,Anna Shark,Nguyen Foster,Fish,Forest,Omnivore,Vulnerable,Australia
+534,Allison Owl,Wilson Bennett,Fish,Desert,Omnivore,Near Threatened,Asia
+535,Stephen Falcon,Floyd Schultz,Fish,Wetlands,Carnivore,Vulnerable,Australia
+536,Philip Owl,Christensen Moore,Reptile,Ocean,Herbivore,Near Threatened,Europe
+537,Daniel Puma,Lester Meyer,Bird,Caves,Herbivore,Vulnerable,Worldwide
+538,Michael Tiger,Ramos Levy,Amphibian,Desert,Carnivore,Least Concern,South America
+539,James Puma,Garcia Brown,Bird,Forest,Herbivore,Near Threatened,Africa
+540,Nicole Owl,Parsons Lewis,Amphibian,Desert,Omnivore,Least Concern,Australia
+541,Erica Crocodile,Thompson Stevens,Bird,Forest,Herbivore,Least Concern,Antarctica
+542,Angela Bear,Long Delgado,Mammal,Wetlands,Herbivore,Least Concern,South America
+543,Kenneth Eagle,Smith Fischer,Amphibian,Caves,Omnivore,Endangered,Europe
+544,Nancy Tiger,Duncan Davis,Bird,Wetlands,Herbivore,Least Concern,Antarctica
+545,Wendy Bear,Medina Washington,Fish,Savannah,Omnivore,Critically Endangered,Worldwide
+546,Barbara Tiger,Bennett Davis,Reptile,Caves,Carnivore,Vulnerable,North America
+547,Colleen Puma,Chavez Mills,Bird,Ocean,Herbivore,Endangered,Asia
+548,Luis Bear,Howell Quinn,Mammal,Wetlands,Herbivore,Near Threatened,Australia
+549,Ryan Bear,Miranda Price,Bird,Grasslands,Herbivore,Vulnerable,Europe
+550,Eric Eagle,Bailey Vincent,Reptile,Tundra,Herbivore,Endangered,Antarctica
+551,Aaron Puma,Butler Howell,Fish,Wetlands,Carnivore,Least Concern,South America
+552,Jake Tiger,Hale Petersen,Mammal,Tundra,Omnivore,Endangered,Australia
+553,Christine Falcon,Thornton Richardson,Reptile,Grasslands,Carnivore,Least Concern,North America
+554,Arthur Wolf,Pham Thompson,Bird,Wetlands,Omnivore,Near Threatened,South America
+555,Evan Puma,Daugherty Wilson,Fish,Savannah,Herbivore,Near Threatened,Antarctica
+556,Natasha Eagle,Phillips Price,Reptile,Mountains,Carnivore,Least Concern,North America
+557,Jasmin Wolf,Mckenzie Wright,Fish,Caves,Omnivore,Vulnerable,Antarctica
+558,Jennifer Crocodile,Hampton Horn,Reptile,Rivers,Herbivore,Critically Endangered,Asia
+559,Laura Wolf,Ward Marshall,Bird,Caves,Omnivore,Vulnerable,Africa
+560,Bryan Puma,Davis Sims,Reptile,Wetlands,Carnivore,Near Threatened,Australia
+561,Melissa Tiger,Henry Pena,Mammal,Caves,Carnivore,Vulnerable,Europe
+562,Joseph Tiger,Jackson Garza,Fish,Wetlands,Omnivore,Vulnerable,Australia
+563,Mary Lizard,Tucker Rogers,Bird,Savannah,Carnivore,Vulnerable,South America
+564,James Falcon,Choi Blake,Fish,Ocean,Omnivore,Endangered,Africa
+565,Courtney Owl,Quinn Cruz,Bird,Forest,Herbivore,Endangered,South America
+566,Adam Python,Freeman Jones,Fish,Rivers,Carnivore,Endangered,Worldwide
+567,Clayton Puma,Bishop Fowler,Fish,Mountains,Carnivore,Endangered,Australia
+568,Kristine Puma,Jenkins Reilly,Reptile,Wetlands,Herbivore,Near Threatened,North America
+569,Michelle Puma,Mcdonald Ward,Amphibian,Caves,Omnivore,Critically Endangered,Europe
+570,Gary Bear,Odonnell Smith,Mammal,Grasslands,Carnivore,Near Threatened,Europe
+571,Amanda Tiger,Jackson Ellis,Mammal,Grasslands,Carnivore,Vulnerable,Europe
+572,William Crocodile,Cisneros Silva,Mammal,Ocean,Omnivore,Near Threatened,Antarctica
+573,Jessica Falcon,Wilson Tyler,Amphibian,Mountains,Carnivore,Endangered,Antarctica
+574,Aaron Eagle,Hull Gray,Fish,Grasslands,Omnivore,Vulnerable,North America
+575,Denise Eagle,Cobb Kent,Reptile,Mountains,Herbivore,Critically Endangered,Europe
+576,Daniel Python,Peck Morris,Fish,Desert,Omnivore,Endangered,Asia
+577,Jill Python,Jackson Cruz,Fish,Ocean,Herbivore,Critically Endangered,Australia
+578,Christopher Tiger,Kim Villa,Amphibian,Desert,Carnivore,Endangered,North America
+579,Tracey Lizard,Villegas Montgomery,Reptile,Wetlands,Herbivore,Vulnerable,Europe
+580,Michael Bear,Mcdonald Thompson,Amphibian,Wetlands,Carnivore,Critically Endangered,South America
+581,John Bear,Roman Garcia,Fish,Desert,Omnivore,Vulnerable,Asia
+582,Amy Lizard,Watts Bautista,Fish,Mountains,Omnivore,Endangered,Worldwide
+583,Jason Eagle,Li Lane,Fish,Forest,Herbivore,Least Concern,Africa
+584,Elizabeth Puma,Arroyo Rich,Amphibian,Savannah,Omnivore,Critically Endangered,Africa
+585,James Falcon,Lee Miller,Amphibian,Wetlands,Omnivore,Vulnerable,Europe
+586,Brian Wolf,Mccormick Smith,Reptile,Desert,Omnivore,Critically Endangered,Europe
+587,Jonathan Crocodile,Jefferson Olson,Mammal,Grasslands,Herbivore,Vulnerable,Africa
+588,Angela Crocodile,Garcia Dixon,Mammal,Savannah,Carnivore,Endangered,South America
+589,Jamie Lizard,Trujillo Silva,Fish,Tundra,Carnivore,Critically Endangered,North America
+590,Joan Falcon,Williams Kelley,Fish,Rivers,Herbivore,Critically Endangered,Africa
+591,David Bear,White Garrison,Bird,Desert,Herbivore,Critically Endangered,North America
+592,Dakota Falcon,Johnson Williams,Fish,Rivers,Carnivore,Near Threatened,South America
+593,Michael Falcon,Bell Baker,Reptile,Mountains,Omnivore,Least Concern,Australia
+594,Mackenzie Shark,Schultz Huffman,Mammal,Wetlands,Carnivore,Least Concern,Africa
+595,Kari Lizard,Kent Sanchez,Bird,Tundra,Carnivore,Vulnerable,Asia
+596,Samuel Wolf,Dixon Page,Bird,Caves,Herbivore,Vulnerable,Asia
+597,Susan Bear,Hall Brown,Bird,Caves,Carnivore,Least Concern,Worldwide
+598,Nicholas Lizard,Thomas White,Mammal,Rivers,Omnivore,Near Threatened,Australia
+599,Jerry Eagle,Atkinson Edwards,Amphibian,Forest,Carnivore,Critically Endangered,Europe
+600,Jon Crocodile,Lawson Dickerson,Reptile,Savannah,Carnivore,Near Threatened,South America
+601,Angela Bear,Goodman Sutton,Fish,Desert,Omnivore,Vulnerable,Australia
+602,Michael Eagle,Reyes Mills,Reptile,Wetlands,Omnivore,Near Threatened,Worldwide
+603,Sarah Lizard,Kennedy Roberson,Bird,Desert,Omnivore,Near Threatened,Australia
+604,John Python,Miles Walker,Fish,Tundra,Carnivore,Critically Endangered,Asia
+605,Edward Wolf,Williams Schwartz,Fish,Ocean,Omnivore,Critically Endangered,Antarctica
+606,Katrina Eagle,Taylor Austin,Reptile,Rivers,Carnivore,Near Threatened,Worldwide
+607,Valerie Python,Colon Griffin,Reptile,Caves,Omnivore,Least Concern,Africa
+608,Alan Eagle,Miller Wagner,Mammal,Forest,Carnivore,Least Concern,Europe
+609,Yvette Wolf,Perez Miranda,Reptile,Caves,Omnivore,Critically Endangered,Worldwide
+610,Laurie Falcon,Ferrell Gonzalez,Bird,Grasslands,Omnivore,Near Threatened,Africa
+611,Juan Crocodile,Rowland Pennington,Bird,Grasslands,Carnivore,Near Threatened,Europe
+612,Gina Eagle,Avery Martin,Fish,Savannah,Herbivore,Vulnerable,Antarctica
+613,Alexis Crocodile,Pierce Dixon,Mammal,Ocean,Omnivore,Endangered,Worldwide
+614,Stephanie Python,Hardin Duncan,Fish,Desert,Herbivore,Vulnerable,Australia
+615,Mary Puma,Lopez Norman,Mammal,Savannah,Herbivore,Critically Endangered,Australia
+616,Joseph Python,Hill Hernandez,Reptile,Rivers,Herbivore,Critically Endangered,Antarctica
+617,Ann Owl,Gray Mendoza,Amphibian,Forest,Omnivore,Critically Endangered,Europe
+618,Ronald Wolf,Williams Simmons,Mammal,Grasslands,Omnivore,Near Threatened,Africa
+619,Thomas Tiger,Barry Hatfield,Bird,Wetlands,Herbivore,Endangered,South America
+620,Curtis Eagle,Smith Kelly,Bird,Caves,Omnivore,Critically Endangered,South America
+621,Teresa Lizard,Bridges Morgan,Mammal,Caves,Herbivore,Vulnerable,Australia
+622,Cristina Falcon,Sullivan Smith,Reptile,Forest,Carnivore,Endangered,Asia
+623,Aaron Puma,Goodman Callahan,Bird,Desert,Carnivore,Vulnerable,South America
+624,Joseph Wolf,Russell Harrison,Fish,Mountains,Carnivore,Endangered,Australia
+625,Lisa Python,Malone Gomez,Amphibian,Grasslands,Carnivore,Least Concern,Antarctica
+626,Joseph Tiger,Smith Patterson,Reptile,Desert,Omnivore,Critically Endangered,Australia
+627,Angel Puma,Quinn Lopez,Amphibian,Rivers,Herbivore,Least Concern,North America
+628,Billy Lizard,Santiago Gilmore,Mammal,Savannah,Carnivore,Vulnerable,Asia
+629,Jessica Python,Roy Burke,Fish,Caves,Omnivore,Endangered,Worldwide
+630,Melissa Lizard,Perez Suarez,Bird,Caves,Carnivore,Critically Endangered,Antarctica
+631,Eric Python,Morgan Ross,Amphibian,Rivers,Herbivore,Least Concern,Europe
+632,Angela Puma,Patel Johnson,Mammal,Grasslands,Herbivore,Endangered,Worldwide
+633,Michael Puma,Ryan Cooke,Amphibian,Mountains,Omnivore,Least Concern,Asia
+634,Troy Owl,Norris Williams,Mammal,Tundra,Omnivore,Near Threatened,Asia
+635,Richard Puma,Welch Goodwin,Fish,Wetlands,Carnivore,Vulnerable,Antarctica
+636,Kenneth Bear,Shaw Peterson,Fish,Desert,Omnivore,Endangered,Europe
+637,Jessica Shark,Davis Smith,Amphibian,Tundra,Omnivore,Vulnerable,Africa
+638,Tanya Python,Kennedy Smith,Reptile,Mountains,Omnivore,Near Threatened,North America
+639,Michelle Eagle,Hess Walker,Bird,Rivers,Herbivore,Least Concern,Europe
+640,Richard Puma,Berg Banks,Reptile,Desert,Herbivore,Endangered,Antarctica
+641,Anthony Wolf,Smith Johns,Bird,Caves,Carnivore,Vulnerable,Antarctica
+642,John Bear,Potts Marks,Mammal,Rivers,Carnivore,Critically Endangered,North America
+643,Kathy Lizard,Adams Collins,Bird,Wetlands,Herbivore,Least Concern,Africa
+644,Emily Owl,Cantrell Avila,Mammal,Ocean,Omnivore,Critically Endangered,Europe
+645,Emily Crocodile,Cervantes Richardson,Amphibian,Caves,Carnivore,Near Threatened,Antarctica
+646,Charles Bear,Leonard Moore,Bird,Wetlands,Carnivore,Least Concern,Europe
+647,Jason Puma,Howard Patton,Fish,Desert,Carnivore,Near Threatened,Worldwide
+648,Thomas Eagle,Lee Johnson,Bird,Rivers,Carnivore,Least Concern,South America
+649,Alexander Bear,Crawford Kennedy,Fish,Rivers,Carnivore,Near Threatened,South America
+650,Bryce Shark,Colon Keller,Fish,Tundra,Herbivore,Critically Endangered,Antarctica
+651,Justin Eagle,Koch Brooks,Mammal,Ocean,Carnivore,Least Concern,North America
+652,Elizabeth Tiger,Smith Gibbs,Mammal,Savannah,Herbivore,Least Concern,Europe
+653,Erin Falcon,Webb Bryant,Reptile,Tundra,Carnivore,Near Threatened,Antarctica
+654,Andrew Falcon,Rodgers Ward,Reptile,Desert,Herbivore,Endangered,North America
+655,Christine Lizard,Evans Reynolds,Amphibian,Tundra,Herbivore,Near Threatened,North America
+656,Clayton Lizard,Graham Reyes,Mammal,Grasslands,Herbivore,Vulnerable,Worldwide
+657,Jeffrey Wolf,Nelson Lewis,Bird,Grasslands,Herbivore,Least Concern,Worldwide
+658,Michelle Falcon,Lowe Sandoval,Amphibian,Mountains,Carnivore,Least Concern,Australia
+659,Amanda Tiger,Terry Johnson,Fish,Caves,Herbivore,Vulnerable,Europe
+660,Pamela Bear,Edwards Campbell,Fish,Savannah,Herbivore,Vulnerable,Asia
+661,Tyler Shark,Griffin Silva,Bird,Savannah,Carnivore,Critically Endangered,South America
+662,Diane Falcon,Foster Bryant,Fish,Tundra,Carnivore,Critically Endangered,Asia
+663,Kayla Shark,Pace Lee,Reptile,Wetlands,Carnivore,Least Concern,Antarctica
+664,Noah Falcon,Gomez Shepard,Amphibian,Desert,Omnivore,Critically Endangered,South America
+665,Daniel Wolf,Finley Woods,Mammal,Ocean,Omnivore,Endangered,Europe
+666,Alexandria Eagle,Carter Scott,Fish,Desert,Omnivore,Endangered,North America
+667,Tiffany Owl,Mann Rodriguez,Bird,Ocean,Herbivore,Endangered,Africa
+668,Guy Wolf,Ferguson Padilla,Reptile,Caves,Herbivore,Near Threatened,Australia
+669,Jessica Eagle,Jacobs Mcmillan,Fish,Desert,Carnivore,Vulnerable,Africa
+670,Daniel Owl,Jordan Griffin,Amphibian,Wetlands,Omnivore,Endangered,South America
+671,Heather Tiger,Cruz Williams,Fish,Ocean,Herbivore,Near Threatened,Australia
+672,Courtney Crocodile,Maddox Miller,Reptile,Ocean,Omnivore,Least Concern,Antarctica
+673,Amanda Eagle,Wiggins Martinez,Reptile,Desert,Carnivore,Least Concern,North America
+674,Gabrielle Eagle,Martinez Adams,Fish,Mountains,Carnivore,Endangered,South America
+675,Zachary Lizard,Turner Hall,Mammal,Grasslands,Carnivore,Near Threatened,Europe
+676,Lindsay Eagle,Perkins Morris,Mammal,Caves,Omnivore,Least Concern,Africa
+677,Katherine Wolf,Taylor Griffin,Mammal,Desert,Herbivore,Least Concern,Europe
+678,Joshua Lizard,Rose Prince,Mammal,Forest,Herbivore,Near Threatened,Africa
+679,John Python,Myers Sanders,Fish,Rivers,Omnivore,Least Concern,Australia
+680,Amanda Puma,Carr Young,Amphibian,Rivers,Omnivore,Endangered,Europe
+681,Donna Bear,Manning Thompson,Bird,Mountains,Omnivore,Near Threatened,Antarctica
+682,Walter Shark,Rodgers Rogers,Bird,Savannah,Herbivore,Least Concern,North America
+683,John Shark,Vasquez Jacobson,Mammal,Grasslands,Omnivore,Vulnerable,South America
+684,Krystal Falcon,Garner Sims,Bird,Mountains,Herbivore,Near Threatened,Australia
+685,Jorge Crocodile,Davis Cox,Amphibian,Caves,Herbivore,Critically Endangered,Australia
+686,Jonathan Wolf,Fleming Smith,Mammal,Grasslands,Carnivore,Critically Endangered,South America
+687,Nicholas Puma,Gould Wade,Amphibian,Desert,Omnivore,Near Threatened,Worldwide
+688,Jason Puma,Carlson Beck,Amphibian,Grasslands,Omnivore,Near Threatened,Africa
+689,Robert Bear,Anderson Molina,Amphibian,Desert,Omnivore,Near Threatened,Antarctica
+690,Austin Bear,Thomas Rose,Reptile,Forest,Herbivore,Critically Endangered,Australia
+691,Douglas Python,Pineda Dougherty,Bird,Rivers,Carnivore,Endangered,Europe
+692,Suzanne Bear,Becker Kim,Bird,Tundra,Omnivore,Critically Endangered,Europe
+693,Carlos Bear,Hoffman Reynolds,Mammal,Ocean,Carnivore,Near Threatened,South America
+694,William Tiger,Gonzalez Clark,Fish,Caves,Omnivore,Least Concern,Antarctica
+695,Pamela Wolf,Olson Jennings,Bird,Rivers,Omnivore,Critically Endangered,Asia
+696,Melanie Lizard,Quinn Lee,Fish,Ocean,Carnivore,Near Threatened,South America
+697,David Shark,Conway Jones,Bird,Caves,Omnivore,Least Concern,South America
+698,Joanne Eagle,Patterson Chandler,Mammal,Mountains,Herbivore,Critically Endangered,Antarctica
+699,Matthew Puma,Jordan Boyd,Reptile,Forest,Carnivore,Least Concern,Australia
+700,Travis Owl,Jones Williamson,Bird,Ocean,Herbivore,Vulnerable,Europe
+701,Sean Eagle,Fernandez Martinez,Bird,Tundra,Herbivore,Critically Endangered,Asia
+702,Edward Bear,Smith Martinez,Amphibian,Rivers,Carnivore,Vulnerable,Africa
+703,Dennis Falcon,Murphy Young,Bird,Savannah,Carnivore,Endangered,Asia
+704,Nathan Shark,Larson Montes,Fish,Mountains,Carnivore,Least Concern,Antarctica
+705,Kimberly Bear,Wright Black,Bird,Tundra,Carnivore,Vulnerable,Africa
+706,Alice Shark,Jenkins Harris,Amphibian,Forest,Herbivore,Near Threatened,North America
+707,Kathy Lizard,Crawford Rivera,Reptile,Caves,Omnivore,Near Threatened,South America
+708,Amy Owl,Smith Johnson,Bird,Mountains,Herbivore,Endangered,Africa
+709,Michael Tiger,King Howell,Reptile,Caves,Omnivore,Near Threatened,Africa
+710,Michael Eagle,Church Braun,Mammal,Caves,Herbivore,Critically Endangered,Africa
+711,Brian Eagle,Lee Young,Fish,Forest,Carnivore,Least Concern,Australia
+712,Terri Python,Clarke Mcdaniel,Mammal,Savannah,Omnivore,Endangered,Antarctica
+713,Ryan Lizard,James Roberts,Bird,Rivers,Carnivore,Least Concern,Asia
+714,Danny Owl,Williams Gibson,Reptile,Wetlands,Carnivore,Near Threatened,Antarctica
+715,Arthur Tiger,Garcia Brown,Bird,Caves,Herbivore,Critically Endangered,Asia
+716,Jessica Python,Valencia Valencia,Reptile,Tundra,Herbivore,Critically Endangered,Australia
+717,Michael Crocodile,Steele Vasquez,Reptile,Caves,Omnivore,Near Threatened,North America
+718,Elaine Wolf,Underwood Ramirez,Mammal,Forest,Omnivore,Endangered,South America
+719,Dustin Python,Perez Tucker,Reptile,Tundra,Omnivore,Vulnerable,Asia
+720,Paul Falcon,Henry Goodwin,Fish,Grasslands,Omnivore,Least Concern,North America
+721,James Python,Lewis Howard,Mammal,Mountains,Herbivore,Near Threatened,Australia
+722,Brian Shark,Mejia White,Bird,Grasslands,Herbivore,Endangered,Antarctica
+723,Francisco Tiger,Mcdowell Harvey,Reptile,Grasslands,Omnivore,Least Concern,South America
+724,Jay Tiger,Keith Williams,Bird,Ocean,Herbivore,Critically Endangered,Asia
+725,Carla Puma,Cobb Gonzalez,Fish,Grasslands,Omnivore,Vulnerable,Europe
+726,Gail Puma,Rodriguez Lamb,Fish,Savannah,Herbivore,Vulnerable,North America
+727,John Bear,Rojas Cook,Reptile,Wetlands,Carnivore,Least Concern,Asia
+728,Melanie Owl,Stanley Jenkins,Bird,Desert,Omnivore,Near Threatened,Australia
+729,Justin Puma,Hernandez Dalton,Fish,Forest,Herbivore,Near Threatened,Asia
+730,Margaret Python,Moore Morris,Amphibian,Rivers,Carnivore,Near Threatened,Europe
+731,Donna Tiger,Henry Watson,Amphibian,Grasslands,Herbivore,Endangered,Europe
+732,Sarah Wolf,Johnson Park,Reptile,Rivers,Carnivore,Least Concern,Europe
+733,Jeremy Lizard,Lindsey Stevens,Fish,Desert,Herbivore,Least Concern,Worldwide
+734,Walter Shark,Holmes Ortega,Reptile,Rivers,Herbivore,Critically Endangered,North America
+735,Emily Bear,Coleman Fisher,Bird,Tundra,Herbivore,Least Concern,Worldwide
+736,Emily Python,Franklin Choi,Reptile,Wetlands,Herbivore,Least Concern,South America
+737,Amy Puma,Morrison Perry,Mammal,Savannah,Carnivore,Vulnerable,Africa
+738,Lauren Eagle,Hunt Campbell,Amphibian,Tundra,Omnivore,Critically Endangered,Asia
+739,Kimberly Shark,Webb Henry,Amphibian,Tundra,Omnivore,Near Threatened,South America
+740,Kevin Tiger,Miles Hoover,Fish,Grasslands,Carnivore,Least Concern,South America
+741,Brianna Falcon,Mclean Taylor,Mammal,Forest,Carnivore,Least Concern,Antarctica
+742,Frances Shark,Murphy Bishop,Amphibian,Rivers,Carnivore,Vulnerable,Antarctica
+743,Shannon Crocodile,Martinez Wood,Fish,Desert,Omnivore,Endangered,Africa
+744,Gina Eagle,Lopez Mckinney,Amphibian,Desert,Herbivore,Vulnerable,Africa
+745,Zachary Eagle,Green Mora,Fish,Savannah,Carnivore,Vulnerable,Asia
+746,Joseph Tiger,Johnson Malone,Fish,Savannah,Omnivore,Vulnerable,Worldwide
+747,James Bear,Woods Fry,Fish,Tundra,Omnivore,Near Threatened,Australia
+748,Joseph Tiger,Marshall Russell,Bird,Grasslands,Herbivore,Vulnerable,South America
+749,Tracy Falcon,Williams Potter,Amphibian,Desert,Omnivore,Critically Endangered,Antarctica
+750,Patrick Shark,Brown Glenn,Bird,Rivers,Herbivore,Endangered,Asia
+751,Jennifer Bear,Reid Sullivan,Bird,Forest,Omnivore,Endangered,North America
+752,David Crocodile,Paul Allen,Bird,Caves,Carnivore,Endangered,Worldwide
+753,Ernest Owl,Moore Bowen,Amphibian,Rivers,Carnivore,Critically Endangered,Worldwide
+754,Sophia Lizard,Holloway Valenzuela,Bird,Wetlands,Carnivore,Least Concern,Australia
+755,Cynthia Owl,Gonzalez Trujillo,Mammal,Mountains,Omnivore,Critically Endangered,Australia
+756,Kimberly Python,Sandoval Herrera,Reptile,Mountains,Omnivore,Vulnerable,Antarctica
+757,David Lizard,Lewis Bean,Bird,Wetlands,Carnivore,Vulnerable,South America
+758,John Crocodile,Taylor Brown,Reptile,Tundra,Carnivore,Least Concern,Australia
+759,Rachel Wolf,Ryan Mata,Reptile,Desert,Herbivore,Vulnerable,South America
+760,Stephen Tiger,Mccormick Richardson,Fish,Rivers,Omnivore,Vulnerable,North America
+761,Rebecca Lizard,Mcgee York,Reptile,Grasslands,Carnivore,Endangered,Asia
+762,Dennis Eagle,Williams Macdonald,Bird,Savannah,Herbivore,Endangered,Europe
+763,Nicholas Owl,Knapp Crawford,Amphibian,Forest,Carnivore,Endangered,Africa
+764,Teresa Crocodile,Villarreal King,Bird,Caves,Omnivore,Near Threatened,South America
+765,Brenda Owl,Stein Smith,Fish,Wetlands,Herbivore,Vulnerable,Africa
+766,Eric Crocodile,Porter Frederick,Fish,Mountains,Carnivore,Least Concern,North America
+767,Jamie Owl,Stewart Craig,Reptile,Grasslands,Carnivore,Near Threatened,Antarctica
+768,Courtney Eagle,Robertson Greene,Bird,Forest,Carnivore,Least Concern,Australia
+769,Paula Owl,Barnett Yang,Bird,Grasslands,Omnivore,Endangered,Europe
+770,Michael Tiger,Herrera Castaneda,Reptile,Wetlands,Herbivore,Endangered,Antarctica
+771,Brandon Falcon,Horn Wright,Reptile,Mountains,Carnivore,Near Threatened,North America
+772,John Tiger,Molina Cummings,Fish,Rivers,Carnivore,Vulnerable,South America
+773,Elizabeth Puma,Byrd Little,Reptile,Rivers,Omnivore,Critically Endangered,Asia
+774,Aaron Lizard,Lee Carpenter,Amphibian,Wetlands,Omnivore,Near Threatened,North America
+775,Kathryn Owl,Gomez Martinez,Mammal,Grasslands,Omnivore,Endangered,Europe
+776,Thomas Shark,Russell Newton,Amphibian,Grasslands,Omnivore,Vulnerable,Africa
+777,Daniel Wolf,Andrews Ramirez,Reptile,Caves,Omnivore,Near Threatened,South America
+778,Ashlee Python,Lee Bowers,Reptile,Ocean,Herbivore,Endangered,Antarctica
+779,Olivia Wolf,Hernandez Nicholson,Fish,Grasslands,Omnivore,Vulnerable,Antarctica
+780,Cameron Lizard,Kirk Ryan,Amphibian,Mountains,Omnivore,Endangered,Antarctica
+781,Sheena Falcon,Underwood Galloway,Reptile,Caves,Omnivore,Least Concern,Worldwide
+782,Joseph Shark,Lawson Reynolds,Amphibian,Tundra,Omnivore,Vulnerable,Australia
+783,Angela Crocodile,Mahoney Avery,Fish,Tundra,Herbivore,Least Concern,Australia
+784,Christine Wolf,Morgan Kaufman,Reptile,Caves,Herbivore,Critically Endangered,Australia
+785,Joseph Eagle,Parks Williams,Reptile,Savannah,Herbivore,Near Threatened,North America
+786,Daniel Bear,Baker Mcbride,Reptile,Ocean,Omnivore,Endangered,South America
+787,Joseph Bear,Banks Vazquez,Fish,Forest,Carnivore,Vulnerable,South America
+788,Samantha Shark,Cervantes English,Reptile,Wetlands,Omnivore,Near Threatened,Europe
+789,Michelle Tiger,Garrison Gonzalez,Amphibian,Ocean,Omnivore,Least Concern,Asia
+790,Melissa Tiger,Hunt Smith,Reptile,Wetlands,Carnivore,Endangered,Europe
+791,Angela Eagle,Shaw Diaz,Reptile,Tundra,Omnivore,Vulnerable,Africa
+792,Lauren Shark,Contreras Velez,Mammal,Savannah,Omnivore,Endangered,Worldwide
+793,Kathryn Eagle,Johnson Nielsen,Mammal,Wetlands,Carnivore,Least Concern,Antarctica
+794,Brittany Lizard,Hickman Mcmillan,Reptile,Savannah,Omnivore,Near Threatened,Worldwide
+795,Cassidy Wolf,Wolf Jones,Fish,Savannah,Omnivore,Endangered,North America
+796,Amy Eagle,Stevenson Castro,Mammal,Mountains,Omnivore,Critically Endangered,Asia
+797,Arthur Crocodile,Hall Bailey,Fish,Forest,Carnivore,Least Concern,Africa
+798,Kevin Shark,Wilson Hughes,Bird,Wetlands,Herbivore,Least Concern,Africa
+799,Ashley Python,Davidson Mann,Fish,Savannah,Carnivore,Least Concern,Africa
+800,Steven Wolf,Chang Marshall,Amphibian,Grasslands,Carnivore,Vulnerable,Antarctica
+801,Trevor Falcon,Rosario Grant,Reptile,Rivers,Carnivore,Near Threatened,North America
+802,Joseph Puma,Diaz Myers,Mammal,Desert,Carnivore,Least Concern,North America
+803,Shannon Python,Cruz Washington,Reptile,Tundra,Carnivore,Vulnerable,South America
+804,Catherine Lizard,Figueroa Bush,Fish,Tundra,Omnivore,Vulnerable,Africa
+805,Jeffrey Owl,Edwards Shelton,Amphibian,Mountains,Omnivore,Vulnerable,Africa
+806,Kimberly Python,Cooper Swanson,Fish,Ocean,Omnivore,Least Concern,Europe
+807,Thomas Shark,Sanders Clements,Reptile,Ocean,Omnivore,Least Concern,Worldwide
+808,Scott Puma,Craig French,Reptile,Ocean,Omnivore,Critically Endangered,South America
+809,John Bear,Gross Bell,Bird,Wetlands,Herbivore,Endangered,Europe
+810,Victoria Tiger,Nichols Olson,Mammal,Desert,Carnivore,Critically Endangered,Africa
+811,Christine Falcon,Schultz Wagner,Mammal,Ocean,Omnivore,Endangered,Worldwide
+812,Kristin Bear,Cortez Lloyd,Fish,Ocean,Carnivore,Vulnerable,Europe
+813,Michelle Wolf,Jennings Roberts,Bird,Forest,Carnivore,Least Concern,North America
+814,Danielle Owl,Evans Lee,Fish,Desert,Omnivore,Least Concern,Africa
+815,Jennifer Shark,Herrera Bauer,Fish,Tundra,Herbivore,Vulnerable,Worldwide
+816,Kathleen Crocodile,Goodwin Reid,Mammal,Savannah,Herbivore,Vulnerable,Europe
+817,Martha Owl,Hill Barnes,Fish,Rivers,Herbivore,Least Concern,Europe
+818,Megan Wolf,Fox Dorsey,Bird,Ocean,Omnivore,Near Threatened,Australia
+819,Jeffrey Puma,Miller Graham,Fish,Savannah,Carnivore,Near Threatened,Australia
+820,Madison Owl,Villanueva Fernandez,Bird,Ocean,Omnivore,Endangered,Worldwide
+821,Mark Bear,Lewis Frye,Mammal,Forest,Omnivore,Vulnerable,Asia
+822,Kristen Eagle,Decker Wilson,Mammal,Mountains,Carnivore,Near Threatened,Australia
+823,Dean Falcon,Cruz Butler,Bird,Caves,Carnivore,Endangered,Africa
+824,Kimberly Puma,Mooney Donovan,Fish,Savannah,Herbivore,Least Concern,Antarctica
+825,David Owl,Carrillo Vaughn,Bird,Desert,Omnivore,Vulnerable,Antarctica
+826,Jenny Puma,Freeman Knight,Fish,Tundra,Carnivore,Near Threatened,Worldwide
+827,John Owl,Anderson Cummings,Mammal,Forest,Herbivore,Vulnerable,Africa
+828,Kimberly Wolf,Smith Christensen,Bird,Wetlands,Omnivore,Near Threatened,Asia
+829,Linda Python,Garcia Rios,Fish,Savannah,Carnivore,Near Threatened,Africa
+830,Susan Crocodile,Robertson White,Fish,Mountains,Herbivore,Vulnerable,Africa
+831,Jeffrey Falcon,Cole Powell,Amphibian,Caves,Carnivore,Endangered,Africa
+832,Rick Owl,Crosby Tucker,Mammal,Wetlands,Carnivore,Near Threatened,Worldwide
+833,Karen Lizard,Zamora Hale,Reptile,Forest,Omnivore,Near Threatened,Worldwide
+834,Thomas Bear,Garcia Griffin,Amphibian,Wetlands,Carnivore,Least Concern,Africa
+835,Patricia Tiger,Rangel Knapp,Amphibian,Mountains,Carnivore,Near Threatened,Australia
+836,David Owl,Obrien Johnson,Mammal,Tundra,Carnivore,Vulnerable,Europe
+837,Charles Wolf,Alexander Rocha,Fish,Grasslands,Omnivore,Endangered,Antarctica
+838,Jonathan Bear,Sharp Martin,Reptile,Ocean,Omnivore,Near Threatened,Worldwide
+839,John Tiger,Matthews Kim,Mammal,Ocean,Herbivore,Least Concern,Antarctica
+840,Justin Puma,Olson Wilson,Reptile,Ocean,Carnivore,Near Threatened,Antarctica
+841,Gregory Python,Chase Clements,Reptile,Desert,Omnivore,Critically Endangered,Australia
+842,Becky Bear,Best Clark,Bird,Grasslands,Herbivore,Least Concern,Australia
+843,Anthony Shark,Anderson Rogers,Amphibian,Mountains,Carnivore,Vulnerable,Asia
+844,Lee Python,Hayes Wong,Amphibian,Forest,Carnivore,Least Concern,Africa
+845,Faith Shark,Collins Schneider,Bird,Wetlands,Omnivore,Least Concern,Worldwide
+846,Sharon Lizard,Nguyen Conner,Bird,Caves,Herbivore,Critically Endangered,Worldwide
+847,Jessica Bear,Campbell Henderson,Mammal,Wetlands,Omnivore,Vulnerable,Australia
+848,Amanda Owl,Roberts Hall,Amphibian,Forest,Omnivore,Near Threatened,Worldwide
+849,Michelle Python,Lane Bates,Fish,Ocean,Carnivore,Endangered,Worldwide
+850,Daryl Tiger,Pope Brown,Amphibian,Caves,Herbivore,Vulnerable,South America
+851,Brady Python,Williams Thomas,Bird,Wetlands,Carnivore,Near Threatened,South America
+852,Douglas Wolf,Barnes Washington,Fish,Forest,Herbivore,Vulnerable,Australia
+853,Jason Bear,Hoover Coffey,Bird,Caves,Herbivore,Vulnerable,Worldwide
+854,Christopher Bear,Hanson Miller,Amphibian,Savannah,Omnivore,Least Concern,Antarctica
+855,Monica Falcon,White Cochran,Amphibian,Wetlands,Carnivore,Endangered,Europe
+856,Sarah Lizard,Shelton Castillo,Fish,Ocean,Herbivore,Vulnerable,Africa
+857,David Crocodile,Clark White,Mammal,Ocean,Herbivore,Near Threatened,Antarctica
+858,James Bear,Lopez Anderson,Mammal,Forest,Herbivore,Endangered,Australia
+859,Carl Crocodile,Johnson Moore,Amphibian,Mountains,Herbivore,Near Threatened,Asia
+860,David Owl,Perkins Murillo,Fish,Forest,Carnivore,Critically Endangered,North America
+861,Benjamin Crocodile,Banks Harrington,Mammal,Wetlands,Carnivore,Endangered,Australia
+862,Matthew Puma,King Carlson,Fish,Caves,Carnivore,Endangered,Africa
+863,Charles Falcon,Wells Lyons,Fish,Forest,Carnivore,Critically Endangered,Africa
+864,Angela Eagle,Evans Mason,Bird,Desert,Herbivore,Vulnerable,Africa
+865,Katherine Lizard,Jacobson Baker,Bird,Grasslands,Omnivore,Least Concern,North America
+866,Alicia Python,Cummings Johnson,Reptile,Wetlands,Carnivore,Critically Endangered,Asia
+867,Jonathan Puma,Ryan Larson,Reptile,Caves,Herbivore,Near Threatened,Asia
+868,Alice Eagle,Sellers Mccoy,Reptile,Wetlands,Omnivore,Vulnerable,North America
+869,Jason Shark,Garcia Wright,Mammal,Desert,Omnivore,Vulnerable,Africa
+870,Stacey Python,Phillips Walters,Mammal,Ocean,Carnivore,Least Concern,Asia
+871,Kenneth Tiger,Charles Stewart,Mammal,Grasslands,Carnivore,Least Concern,Antarctica
+872,Benjamin Crocodile,Thomas Evans,Amphibian,Mountains,Omnivore,Least Concern,Africa
+873,Valerie Lizard,Keller Soto,Fish,Savannah,Omnivore,Near Threatened,Africa
+874,Paul Wolf,Taylor Shannon,Fish,Grasslands,Carnivore,Vulnerable,North America
+875,Kathleen Eagle,Curry Cook,Amphibian,Mountains,Omnivore,Critically Endangered,Australia
+876,Wendy Eagle,Brooks Holland,Bird,Ocean,Herbivore,Near Threatened,Europe
+877,Diane Crocodile,Hernandez Jones,Amphibian,Caves,Omnivore,Least Concern,Australia
+878,Robert Falcon,Lewis Oneill,Amphibian,Wetlands,Herbivore,Endangered,Asia
+879,Connie Tiger,Richard Osborn,Fish,Forest,Herbivore,Endangered,South America
+880,Andrew Python,Brooks Patel,Bird,Mountains,Herbivore,Critically Endangered,Europe
+881,Christina Eagle,Beltran Juarez,Reptile,Mountains,Carnivore,Endangered,Asia
+882,Michael Wolf,Norris Kelly,Amphibian,Desert,Herbivore,Critically Endangered,Antarctica
+883,Nicole Crocodile,Boyd Armstrong,Bird,Desert,Herbivore,Vulnerable,Worldwide
+884,Robert Eagle,Wilcox Waller,Fish,Ocean,Herbivore,Least Concern,Asia
+885,Mark Owl,Hill Bonilla,Bird,Wetlands,Herbivore,Least Concern,Africa
+886,William Falcon,Murray Webster,Reptile,Tundra,Carnivore,Vulnerable,Worldwide
+887,Gabriel Owl,Obrien Maddox,Fish,Mountains,Herbivore,Near Threatened,South America
+888,Amy Tiger,Mercado Riley,Mammal,Grasslands,Carnivore,Vulnerable,Asia
+889,Stacie Owl,Holder Thompson,Bird,Desert,Omnivore,Critically Endangered,Europe
+890,Daisy Falcon,Jones Yang,Bird,Wetlands,Carnivore,Least Concern,Worldwide
+891,Daniel Tiger,Roberts Martinez,Mammal,Mountains,Herbivore,Near Threatened,Europe
+892,Jennifer Puma,Gonzalez Cherry,Reptile,Wetlands,Carnivore,Endangered,Europe
+893,Eduardo Eagle,Adams West,Amphibian,Tundra,Omnivore,Least Concern,South America
+894,Charles Shark,Green Ross,Reptile,Grasslands,Carnivore,Near Threatened,Worldwide
+895,Carl Eagle,Sanchez Burton,Amphibian,Ocean,Omnivore,Endangered,North America
+896,Anthony Shark,Bush Morgan,Amphibian,Mountains,Carnivore,Critically Endangered,Australia
+897,Stacy Eagle,Walker Daniel,Bird,Wetlands,Herbivore,Near Threatened,North America
+898,Joseph Crocodile,Perry Smith,Fish,Forest,Herbivore,Least Concern,Asia
+899,Tyler Tiger,Green Baker,Amphibian,Rivers,Carnivore,Critically Endangered,Worldwide
+900,Jason Falcon,Holland Rodriguez,Mammal,Rivers,Omnivore,Vulnerable,North America
+901,Joshua Tiger,Matthews Cunningham,Bird,Mountains,Herbivore,Endangered,Australia
+902,Casey Python,Macdonald Hudson,Fish,Forest,Omnivore,Vulnerable,Australia
+903,Collin Bear,Gutierrez Larson,Fish,Savannah,Omnivore,Vulnerable,Worldwide
+904,Joseph Shark,Werner Elliott,Mammal,Grasslands,Omnivore,Endangered,South America
+905,Karen Puma,Hale Johnson,Reptile,Savannah,Herbivore,Vulnerable,Europe
+906,Diane Crocodile,Harris Wright,Reptile,Wetlands,Herbivore,Near Threatened,North America
+907,Brian Falcon,Morales Gould,Fish,Desert,Herbivore,Endangered,Worldwide
+908,Donna Shark,Watkins Moreno,Bird,Tundra,Carnivore,Endangered,Africa
+909,Alison Wolf,Watkins Ritter,Bird,Savannah,Herbivore,Least Concern,South America
+910,Yvonne Falcon,Mcclure Love,Fish,Ocean,Herbivore,Near Threatened,South America
+911,Bradley Bear,Perry Garcia,Amphibian,Forest,Herbivore,Least Concern,Africa
+912,Sara Lizard,Crawford Mckee,Fish,Rivers,Omnivore,Least Concern,Worldwide
+913,Matthew Owl,Myers Stout,Fish,Savannah,Carnivore,Least Concern,Antarctica
+914,Kevin Tiger,Armstrong Hodge,Fish,Caves,Omnivore,Near Threatened,Australia
+915,Curtis Lizard,Waters Hansen,Mammal,Desert,Omnivore,Critically Endangered,Europe
+916,Connie Falcon,Navarro Torres,Amphibian,Forest,Herbivore,Endangered,Australia
+917,Amanda Eagle,Williams Barnett,Fish,Desert,Herbivore,Least Concern,Europe
+918,Pamela Shark,Murray Thomas,Mammal,Wetlands,Omnivore,Critically Endangered,Europe
+919,Carla Puma,Duffy Brown,Amphibian,Mountains,Carnivore,Critically Endangered,North America
+920,Roberta Tiger,Hansen White,Bird,Forest,Omnivore,Near Threatened,South America
+921,Jennifer Shark,Perry Smith,Mammal,Tundra,Omnivore,Vulnerable,North America
+922,Jennifer Tiger,Hunt Montoya,Fish,Caves,Herbivore,Critically Endangered,Europe
+923,Andrea Puma,Williams Parker,Mammal,Forest,Omnivore,Vulnerable,Worldwide
+924,David Bear,Dickson Galvan,Amphibian,Ocean,Herbivore,Near Threatened,Europe
+925,Kristy Shark,Huff Erickson,Amphibian,Ocean,Herbivore,Least Concern,South America
+926,Katherine Eagle,Buchanan Jones,Mammal,Rivers,Omnivore,Critically Endangered,Europe
+927,Stephanie Puma,Taylor Cole,Fish,Caves,Herbivore,Critically Endangered,Antarctica
+928,Curtis Wolf,Bennett Hernandez,Bird,Savannah,Omnivore,Least Concern,Europe
+929,John Bear,Freeman Baker,Bird,Desert,Omnivore,Endangered,Australia
+930,Brenda Python,Miranda Sandoval,Fish,Rivers,Carnivore,Critically Endangered,Worldwide
+931,Maria Wolf,Stephenson Price,Bird,Rivers,Carnivore,Least Concern,Worldwide
+932,Alexander Bear,Williams Hawkins,Mammal,Forest,Carnivore,Near Threatened,South America
+933,Terry Wolf,Lynch Sandoval,Bird,Tundra,Herbivore,Near Threatened,Europe
+934,Daniel Bear,Jacobson Blackwell,Fish,Mountains,Herbivore,Critically Endangered,Worldwide
+935,Tanya Eagle,Miller Chapman,Fish,Desert,Omnivore,Vulnerable,Australia
+936,Natasha Falcon,Rodriguez Vaughan,Mammal,Savannah,Carnivore,Least Concern,Antarctica
+937,Mark Tiger,Rosario Burton,Amphibian,Caves,Herbivore,Near Threatened,North America
+938,Donna Crocodile,Wheeler Downs,Fish,Mountains,Carnivore,Critically Endangered,Asia
+939,Jessica Lizard,Barrett Bird,Mammal,Mountains,Carnivore,Least Concern,Australia
+940,Kelly Python,Goodwin Holder,Bird,Ocean,Omnivore,Critically Endangered,Antarctica
+941,Jennifer Eagle,Robinson Perez,Amphibian,Grasslands,Herbivore,Endangered,North America
+942,Casey Shark,Harper Christensen,Fish,Ocean,Carnivore,Near Threatened,Asia
+943,Katelyn Wolf,Hampton Miller,Amphibian,Mountains,Omnivore,Least Concern,Europe
+944,Tonya Bear,Weiss Bates,Amphibian,Tundra,Carnivore,Near Threatened,North America
+945,Carolyn Owl,Estrada Martinez,Reptile,Wetlands,Carnivore,Endangered,Africa
+946,Tonya Puma,Collins Gardner,Bird,Ocean,Omnivore,Vulnerable,Europe
+947,James Python,Reyes Sutton,Mammal,Wetlands,Carnivore,Least Concern,Asia
+948,Karen Crocodile,Burton Aguirre,Fish,Wetlands,Herbivore,Critically Endangered,Australia
+949,Stephanie Falcon,Wilson Vega,Amphibian,Forest,Omnivore,Near Threatened,South America
+950,Richard Wolf,Rodriguez Brown,Amphibian,Desert,Carnivore,Least Concern,South America
+951,Dustin Falcon,Moses Mcintyre,Bird,Savannah,Omnivore,Critically Endangered,South America
+952,Hannah Crocodile,Yang Kennedy,Fish,Ocean,Carnivore,Vulnerable,Africa
+953,Patricia Owl,Simpson Richardson,Bird,Rivers,Herbivore,Endangered,North America
+954,Patrick Wolf,Jones Rhodes,Mammal,Rivers,Herbivore,Endangered,Worldwide
+955,Brian Crocodile,Martinez Collins,Bird,Ocean,Herbivore,Near Threatened,South America
+956,Bryce Falcon,Smith Mathews,Bird,Ocean,Carnivore,Vulnerable,Europe
+957,David Wolf,Hendricks Murray,Mammal,Wetlands,Herbivore,Near Threatened,Worldwide
+958,Ronald Bear,Jackson Davis,Fish,Wetlands,Omnivore,Vulnerable,Africa
+959,Theresa Eagle,Hammond Ho,Mammal,Rivers,Omnivore,Endangered,South America
+960,Gloria Tiger,Jones Taylor,Fish,Savannah,Omnivore,Near Threatened,Australia
+961,James Eagle,Wilson Martinez,Fish,Grasslands,Carnivore,Least Concern,Australia
+962,Christian Eagle,Maynard Lynch,Bird,Rivers,Omnivore,Least Concern,Antarctica
+963,Tony Crocodile,White Ayala,Fish,Rivers,Herbivore,Least Concern,Africa
+964,Katherine Tiger,Poole Hardin,Fish,Tundra,Herbivore,Vulnerable,Worldwide
+965,Teresa Puma,Bruce Hernandez,Bird,Forest,Herbivore,Vulnerable,South America
+966,Christopher Bear,Brown Adkins,Amphibian,Wetlands,Omnivore,Near Threatened,Australia
+967,Ryan Owl,Perez Morrison,Reptile,Desert,Herbivore,Near Threatened,South America
+968,Autumn Tiger,Smith Castillo,Amphibian,Forest,Herbivore,Vulnerable,South America
+969,Richard Puma,Hernandez Young,Amphibian,Wetlands,Carnivore,Endangered,Europe
+970,Julie Crocodile,Harris King,Bird,Rivers,Omnivore,Least Concern,Asia
+971,Joanna Owl,Smith Bell,Mammal,Tundra,Omnivore,Near Threatened,North America
+972,Susan Shark,Cisneros Garcia,Reptile,Rivers,Herbivore,Near Threatened,Europe
+973,Stephanie Bear,Olson Velez,Mammal,Wetlands,Herbivore,Critically Endangered,Antarctica
+974,Whitney Wolf,Johnson Golden,Amphibian,Desert,Omnivore,Least Concern,North America
+975,Molly Falcon,Ellis Kramer,Fish,Caves,Herbivore,Near Threatened,South America
+976,Megan Wolf,Brown Acevedo,Bird,Savannah,Omnivore,Endangered,Australia
+977,Michelle Lizard,Ellison Bryant,Mammal,Mountains,Herbivore,Near Threatened,South America
+978,Kenneth Tiger,Ross Rodriguez,Mammal,Tundra,Carnivore,Least Concern,Africa
+979,Joseph Shark,Thomas Wood,Bird,Caves,Omnivore,Vulnerable,Africa
+980,Alejandro Eagle,Hudson Wilson,Mammal,Rivers,Herbivore,Endangered,Europe
+981,Kimberly Bear,Mclean Johnson,Fish,Grasslands,Carnivore,Near Threatened,South America
+982,Allen Falcon,Richardson Tran,Bird,Tundra,Carnivore,Vulnerable,North America
+983,Barbara Python,Bailey Thomas,Mammal,Forest,Herbivore,Near Threatened,Europe
+984,Kevin Shark,Shields Casey,Mammal,Caves,Carnivore,Critically Endangered,Europe
+985,Teresa Python,Johnson Smith,Mammal,Rivers,Omnivore,Critically Endangered,Europe
+986,Joseph Shark,Alvarez Stewart,Bird,Forest,Herbivore,Critically Endangered,Africa
+987,Christopher Crocodile,Reid Lewis,Reptile,Rivers,Herbivore,Near Threatened,Asia
+988,Victor Tiger,Murray Warner,Mammal,Caves,Omnivore,Least Concern,South America
+989,Yvonne Owl,Smith Wiggins,Mammal,Mountains,Herbivore,Vulnerable,South America
+990,Cheryl Tiger,Taylor Pacheco,Amphibian,Mountains,Carnivore,Endangered,Australia
+991,Rachel Puma,Mcmillan Harrison,Amphibian,Rivers,Omnivore,Vulnerable,North America
+992,Shawn Owl,Reynolds Mitchell,Amphibian,Wetlands,Omnivore,Endangered,Antarctica
+993,Susan Falcon,Ramos Foster,Reptile,Desert,Omnivore,Endangered,Australia
+994,Daniel Crocodile,Cochran Khan,Fish,Savannah,Herbivore,Near Threatened,Europe
+995,Jill Owl,Obrien Chavez,Bird,Tundra,Omnivore,Vulnerable,Asia
+996,Tiffany Wolf,Moran Brown,Fish,Savannah,Carnivore,Critically Endangered,South America
+997,Jesus Tiger,Smith Edwards,Fish,Rivers,Carnivore,Near Threatened,North America
+998,Crystal Wolf,Hull Watson,Fish,Tundra,Omnivore,Endangered,Africa
+999,Maria Owl,Williams Gates,Fish,Mountains,Omnivore,Critically Endangered,North America
+1000,John Python,Moore Hayes,Amphibian,Mountains,Carnivore,Near Threatened,Asia
+1001,Sean Lizard,Cruz King,Mammal,Wetlands,Carnivore,Vulnerable,Asia
+1002,Kevin Wolf,Brown Stewart,Fish,Rivers,Carnivore,Vulnerable,South America
+1003,Andre Python,Harmon Brown,Mammal,Savannah,Carnivore,Vulnerable,South America
+1004,Michael Wolf,Anderson Martinez,Fish,Forest,Omnivore,Least Concern,Worldwide
+1005,Sydney Eagle,Ryan Chapman,Bird,Savannah,Omnivore,Near Threatened,Africa
+1006,Corey Puma,Smith Martinez,Amphibian,Caves,Herbivore,Vulnerable,Africa
+1007,Judy Lizard,Christian Fuller,Mammal,Caves,Herbivore,Critically Endangered,Australia
+1008,Matthew Puma,Sanchez Jones,Mammal,Grasslands,Omnivore,Least Concern,Antarctica
+1009,Tracey Lizard,Gonzalez Harris,Fish,Grasslands,Omnivore,Least Concern,North America
+1010,Brittany Falcon,Williamson Byrd,Bird,Caves,Omnivore,Least Concern,Australia
+1011,Julie Owl,Moreno Maddox,Reptile,Ocean,Omnivore,Vulnerable,Europe
+1012,Jane Shark,Williams Jenkins,Bird,Grasslands,Carnivore,Endangered,Europe
+1013,James Wolf,Li Garcia,Bird,Caves,Carnivore,Near Threatened,Europe
+1014,James Wolf,Benson Jackson,Amphibian,Desert,Herbivore,Least Concern,Europe
+1015,Brittany Wolf,Chase Scott,Reptile,Grasslands,Omnivore,Least Concern,Europe
+1016,Jeremiah Puma,Velez Romero,Mammal,Desert,Herbivore,Critically Endangered,Africa
+1017,Nicole Eagle,Hale Lee,Bird,Ocean,Herbivore,Critically Endangered,Australia
+1018,Shelly Tiger,Rose Koch,Reptile,Grasslands,Omnivore,Critically Endangered,Africa
+1019,Darren Python,Lowery Hayden,Reptile,Wetlands,Omnivore,Endangered,Australia
+1020,Christopher Owl,Armstrong Brown,Amphibian,Grasslands,Herbivore,Near Threatened,Europe
+1021,Joyce Shark,Mitchell Ware,Mammal,Mountains,Omnivore,Near Threatened,Africa
+1022,Miguel Eagle,Newton Hale,Bird,Mountains,Carnivore,Endangered,Europe
+1023,Alejandra Crocodile,Mann Kim,Bird,Grasslands,Carnivore,Vulnerable,Worldwide
+1024,Keith Lizard,Duffy Jones,Bird,Desert,Herbivore,Vulnerable,South America
+1025,Leah Lizard,Foster Robertson,Fish,Caves,Omnivore,Vulnerable,Worldwide
+1026,Brandon Bear,Reynolds Ross,Amphibian,Ocean,Omnivore,Critically Endangered,Asia
+1027,Curtis Tiger,Mendoza Gonzalez,Fish,Caves,Carnivore,Near Threatened,North America
+1028,Amy Python,Meyer Farmer,Mammal,Desert,Omnivore,Least Concern,North America
+1029,Dawn Falcon,Harvey King,Bird,Rivers,Carnivore,Vulnerable,Asia
+1030,Tammy Falcon,Brock Estes,Fish,Tundra,Herbivore,Critically Endangered,Australia
+1031,Monica Eagle,Schultz Daniel,Bird,Grasslands,Herbivore,Endangered,Antarctica
+1032,Jay Bear,Stewart Smith,Amphibian,Wetlands,Carnivore,Endangered,North America
+1033,Amy Bear,Cox Wright,Reptile,Grasslands,Omnivore,Critically Endangered,North America
+1034,Eric Bear,Hayes Herring,Mammal,Mountains,Omnivore,Endangered,Worldwide
+1035,Danny Lizard,Strong Banks,Bird,Caves,Carnivore,Least Concern,North America
+1036,Jacqueline Eagle,Williamson Richardson,Reptile,Ocean,Omnivore,Critically Endangered,Antarctica
+1037,Carla Eagle,Kennedy Delacruz,Fish,Forest,Herbivore,Least Concern,Asia
+1038,Thomas Puma,Smith Crane,Reptile,Desert,Carnivore,Vulnerable,Worldwide
+1039,Abigail Crocodile,Dorsey Mendoza,Fish,Grasslands,Carnivore,Least Concern,Asia
+1040,Melanie Crocodile,Mueller Turner,Fish,Tundra,Herbivore,Near Threatened,North America
+1041,Crystal Eagle,Hickman Pham,Mammal,Ocean,Omnivore,Near Threatened,North America
+1042,Tracy Puma,Jones Young,Reptile,Tundra,Herbivore,Near Threatened,Australia
+1043,Robert Puma,Gordon Fischer,Amphibian,Savannah,Omnivore,Endangered,Asia
+1044,Melissa Python,Gomez Andersen,Bird,Savannah,Herbivore,Endangered,Australia
+1045,Kelsey Falcon,Barron Wells,Fish,Grasslands,Herbivore,Least Concern,North America
+1046,Kimberly Tiger,Bowers Ramirez,Bird,Savannah,Omnivore,Endangered,Antarctica
+1047,Christie Lizard,Parker Newman,Amphibian,Rivers,Omnivore,Least Concern,Africa
+1048,Kenneth Owl,Vasquez Casey,Amphibian,Desert,Herbivore,Near Threatened,North America
+1049,Cathy Puma,Haas Lee,Bird,Tundra,Herbivore,Near Threatened,Africa
+1050,Sara Wolf,Medina Macias,Bird,Tundra,Omnivore,Vulnerable,Asia
+1051,Sara Shark,Perez Jimenez,Bird,Desert,Carnivore,Near Threatened,Antarctica
+1052,Lindsay Eagle,Hunter Perez,Bird,Caves,Omnivore,Least Concern,Africa
+1053,Christopher Tiger,Campbell Wells,Amphibian,Tundra,Omnivore,Endangered,Asia
+1054,Ryan Python,Garrett Nguyen,Amphibian,Desert,Herbivore,Critically Endangered,Australia
+1055,David Puma,Neal Davies,Fish,Mountains,Herbivore,Endangered,Antarctica
+1056,Shane Crocodile,Wilson Wells,Mammal,Savannah,Herbivore,Least Concern,Africa
+1057,Lisa Bear,Knight Mathis,Reptile,Savannah,Carnivore,Vulnerable,Australia
+1058,Stacy Tiger,Sutton Hayes,Amphibian,Mountains,Carnivore,Endangered,Worldwide
+1059,Amanda Python,Dickerson Walker,Mammal,Desert,Omnivore,Least Concern,Asia
+1060,Rachel Lizard,Eaton Smith,Reptile,Desert,Omnivore,Near Threatened,Europe
+1061,Selena Owl,Ochoa Marquez,Bird,Tundra,Carnivore,Least Concern,Worldwide
+1062,Alison Bear,King Riley,Fish,Wetlands,Omnivore,Near Threatened,Asia
+1063,Omar Owl,Gutierrez Carr,Amphibian,Desert,Carnivore,Near Threatened,Asia
+1064,Erin Eagle,Cortez Henderson,Fish,Tundra,Herbivore,Vulnerable,Europe
+1065,Katie Puma,Grant Carter,Bird,Mountains,Carnivore,Least Concern,Antarctica
+1066,Carrie Falcon,Miller Burnett,Bird,Grasslands,Carnivore,Vulnerable,Australia
+1067,Stephen Eagle,Johnston Davis,Bird,Ocean,Carnivore,Least Concern,Australia
+1068,Kathleen Crocodile,Nguyen Hall,Amphibian,Mountains,Carnivore,Vulnerable,Africa
+1069,William Bear,Meadows Horn,Mammal,Ocean,Herbivore,Vulnerable,Asia
+1070,Chad Wolf,West Singh,Reptile,Forest,Omnivore,Endangered,North America
+1071,Gina Owl,Carroll Wood,Reptile,Forest,Omnivore,Critically Endangered,Africa
+1072,Samuel Tiger,Stone Perez,Amphibian,Rivers,Herbivore,Endangered,Africa
+1073,Joshua Shark,Spears Brown,Mammal,Caves,Herbivore,Endangered,Worldwide
+1074,Brandi Bear,Jackson Morales,Amphibian,Desert,Carnivore,Endangered,Europe
+1075,Brian Shark,Blackwell Powers,Bird,Savannah,Herbivore,Vulnerable,Europe
+1076,Emily Tiger,Beard Mccormick,Fish,Ocean,Herbivore,Endangered,Worldwide
+1077,Michael Owl,Taylor Villanueva,Bird,Desert,Herbivore,Critically Endangered,Australia
+1078,Bethany Falcon,Johnson Webb,Bird,Tundra,Carnivore,Endangered,South America
+1079,Phillip Crocodile,Beasley Irwin,Reptile,Tundra,Herbivore,Vulnerable,Asia
+1080,Adam Lizard,Cervantes Ramos,Amphibian,Grasslands,Carnivore,Endangered,Africa
+1081,Daisy Bear,Jones Joyce,Amphibian,Ocean,Herbivore,Vulnerable,Antarctica
+1082,Brittany Eagle,Carroll Mcdaniel,Reptile,Ocean,Omnivore,Critically Endangered,Asia
+1083,Terri Bear,Stevens Mcdaniel,Fish,Mountains,Carnivore,Near Threatened,Asia
+1084,Katherine Lizard,Stevens Fuller,Reptile,Rivers,Carnivore,Near Threatened,Africa
+1085,Michelle Owl,Bentley Burns,Reptile,Wetlands,Carnivore,Endangered,Australia
+1086,Mark Crocodile,Gonzalez Savage,Reptile,Savannah,Omnivore,Least Concern,Worldwide
+1087,Alexa Crocodile,Bowers Jackson,Amphibian,Grasslands,Carnivore,Critically Endangered,South America
+1088,Deborah Lizard,Shah Brown,Amphibian,Wetlands,Carnivore,Near Threatened,Australia
+1089,Ashley Shark,Horton Chapman,Reptile,Tundra,Herbivore,Least Concern,Europe
+1090,Kayla Wolf,Ballard Barnes,Amphibian,Desert,Herbivore,Vulnerable,Asia
+1091,Nathan Bear,Wilson Williams,Bird,Caves,Herbivore,Endangered,Europe
+1092,Matthew Shark,Hughes Pham,Fish,Savannah,Carnivore,Vulnerable,Africa
+1093,Jennifer Crocodile,Cruz Hall,Fish,Rivers,Omnivore,Vulnerable,Europe
+1094,Brooke Shark,Gaines Wolf,Amphibian,Grasslands,Herbivore,Critically Endangered,North America
+1095,Valerie Eagle,Lozano Anderson,Fish,Grasslands,Omnivore,Critically Endangered,Europe
+1096,Amanda Python,Beasley Watson,Reptile,Savannah,Carnivore,Near Threatened,South America
+1097,Gregory Python,Wang Morris,Amphibian,Rivers,Carnivore,Near Threatened,Africa
+1098,Daisy Crocodile,Olson Garrett,Reptile,Ocean,Omnivore,Least Concern,Antarctica
+1099,William Wolf,Greene Sweeney,Fish,Savannah,Herbivore,Endangered,North America
+1100,Brianna Shark,Erickson Hawkins,Amphibian,Wetlands,Carnivore,Near Threatened,South America
+1101,Tracey Bear,Glass Taylor,Bird,Forest,Herbivore,Endangered,Antarctica
+1102,Daniel Wolf,Johnson Zimmerman,Amphibian,Rivers,Carnivore,Vulnerable,North America
+1103,Stephen Eagle,Parker Thomas,Fish,Ocean,Omnivore,Critically Endangered,North America
+1104,Thomas Python,Baker Riley,Reptile,Wetlands,Omnivore,Endangered,South America
+1105,Kevin Owl,Santiago May,Mammal,Mountains,Omnivore,Near Threatened,Africa
+1106,Nicholas Python,Drake Richard,Amphibian,Grasslands,Omnivore,Near Threatened,Australia
+1107,Jacob Python,Cole Bryant,Fish,Forest,Omnivore,Endangered,Antarctica
+1108,Kelly Eagle,Hoffman Smith,Amphibian,Rivers,Herbivore,Vulnerable,South America
+1109,Mary Lizard,Smith Howard,Fish,Ocean,Carnivore,Endangered,Worldwide
+1110,Matthew Falcon,Lara Sanders,Fish,Ocean,Carnivore,Critically Endangered,Asia
+1111,Faith Shark,Acosta Smith,Mammal,Grasslands,Herbivore,Critically Endangered,South America
+1112,Stephanie Crocodile,Quinn Mcdowell,Bird,Wetlands,Omnivore,Near Threatened,Worldwide
+1113,Jesse Wolf,Merritt Ramos,Bird,Caves,Omnivore,Least Concern,Europe
+1114,Michael Puma,Davis Robinson,Bird,Desert,Herbivore,Vulnerable,Europe
+1115,Kelsey Shark,Burton Thomas,Amphibian,Forest,Omnivore,Vulnerable,Worldwide
+1116,Tony Puma,Lee Newman,Bird,Savannah,Herbivore,Near Threatened,Australia
+1117,David Bear,Greene Garcia,Amphibian,Wetlands,Herbivore,Endangered,Australia
+1118,Nicole Bear,Norton Myers,Amphibian,Ocean,Herbivore,Least Concern,Asia
+1119,Melinda Bear,Welch Quinn,Mammal,Mountains,Carnivore,Critically Endangered,Europe
+1120,David Eagle,Ramos Jones,Bird,Mountains,Omnivore,Least Concern,Africa
+1121,Heather Bear,Gill Howell,Bird,Savannah,Omnivore,Least Concern,Australia
+1122,Jason Lizard,Williams Jackson,Mammal,Forest,Carnivore,Near Threatened,North America
+1123,Zachary Puma,Richards Craig,Bird,Rivers,Omnivore,Endangered,Worldwide
+1124,Kimberly Crocodile,Hardy Atkins,Mammal,Ocean,Carnivore,Critically Endangered,Africa
+1125,Angela Crocodile,Campbell Smith,Mammal,Mountains,Carnivore,Vulnerable,Australia
+1126,Natalie Owl,Campbell Cuevas,Reptile,Caves,Omnivore,Least Concern,Antarctica
+1127,Brittany Lizard,Jones Davis,Reptile,Forest,Carnivore,Critically Endangered,Asia
+1128,Cameron Eagle,Leblanc Vaughn,Mammal,Rivers,Omnivore,Least Concern,Antarctica
+1129,Christine Puma,Holmes Barrera,Amphibian,Desert,Omnivore,Endangered,Europe
+1130,George Eagle,Richardson Hodges,Amphibian,Desert,Herbivore,Least Concern,North America
+1131,Daniel Owl,Johnson Moreno,Bird,Grasslands,Herbivore,Near Threatened,Europe
+1132,Robert Wolf,Anderson Mercer,Bird,Tundra,Herbivore,Least Concern,South America
+1133,Aaron Falcon,Brown Holloway,Bird,Desert,Herbivore,Vulnerable,North America
+1134,Alexandra Shark,Meadows Miller,Bird,Mountains,Carnivore,Vulnerable,Antarctica
+1135,Anna Puma,Christian Hawkins,Reptile,Wetlands,Carnivore,Near Threatened,Europe
+1136,David Crocodile,Price Hall,Reptile,Savannah,Herbivore,Near Threatened,Australia
+1137,Joseph Lizard,Smith Underwood,Reptile,Forest,Herbivore,Least Concern,Asia
+1138,Sean Owl,Livingston Bailey,Fish,Caves,Omnivore,Vulnerable,Asia
+1139,Leslie Eagle,Salazar Jackson,Fish,Rivers,Omnivore,Near Threatened,Europe
+1140,John Owl,Mayer Schwartz,Mammal,Rivers,Carnivore,Endangered,Australia
+1141,Molly Lizard,Ali Baker,Reptile,Grasslands,Omnivore,Near Threatened,Asia
+1142,Kevin Lizard,Thompson White,Fish,Tundra,Omnivore,Near Threatened,South America
+1143,Taylor Tiger,Kemp Fuller,Bird,Wetlands,Herbivore,Near Threatened,Africa
+1144,Benjamin Python,Barnett Nguyen,Mammal,Ocean,Carnivore,Critically Endangered,North America
+1145,Troy Tiger,Oneal Perez,Fish,Wetlands,Omnivore,Critically Endangered,Worldwide
+1146,David Wolf,Moore Jackson,Amphibian,Forest,Carnivore,Critically Endangered,Africa
+1147,Steve Owl,Hart Green,Amphibian,Tundra,Herbivore,Endangered,South America
+1148,Ricky Eagle,Lambert Fuller,Reptile,Wetlands,Omnivore,Least Concern,Worldwide
+1149,Brenda Owl,Powell Jimenez,Bird,Rivers,Carnivore,Vulnerable,North America
+1150,Brittany Python,Stewart Bowers,Bird,Caves,Herbivore,Near Threatened,Africa
+1151,Lawrence Shark,Baxter Jimenez,Reptile,Ocean,Carnivore,Critically Endangered,Australia
+1152,Joseph Eagle,Price Wallace,Amphibian,Forest,Carnivore,Vulnerable,Asia
+1153,Tammy Eagle,Lewis Jimenez,Bird,Forest,Omnivore,Endangered,Africa
+1154,Anna Puma,Perry Mcdonald,Mammal,Wetlands,Herbivore,Near Threatened,Worldwide
+1155,Matthew Wolf,Lopez Hall,Amphibian,Rivers,Herbivore,Critically Endangered,Antarctica
+1156,Christopher Owl,Griffin Mcdonald,Bird,Wetlands,Herbivore,Near Threatened,North America
+1157,Nancy Owl,Eaton Baker,Fish,Mountains,Omnivore,Near Threatened,Antarctica
+1158,Jeffrey Bear,Wilson Foster,Reptile,Caves,Omnivore,Vulnerable,Australia
+1159,Derrick Bear,Sanders Nolan,Fish,Caves,Omnivore,Endangered,Australia
+1160,Richard Bear,Vega Davis,Fish,Rivers,Carnivore,Near Threatened,Asia
+1161,Robert Eagle,Ruiz Sharp,Fish,Rivers,Herbivore,Vulnerable,South America
+1162,Jo Falcon,Scott Dickson,Reptile,Rivers,Carnivore,Least Concern,Africa
+1163,Devin Bear,Davis Shelton,Amphibian,Grasslands,Herbivore,Least Concern,South America
+1164,Denise Tiger,Edwards Campos,Fish,Desert,Herbivore,Least Concern,Europe
+1165,Michelle Puma,Morris Watson,Fish,Rivers,Omnivore,Vulnerable,Asia
+1166,Melissa Wolf,Ruiz Lynch,Reptile,Grasslands,Herbivore,Least Concern,Europe
+1167,Isaac Puma,Galloway Davenport,Bird,Savannah,Herbivore,Vulnerable,Africa
+1168,Sean Tiger,Hill Dixon,Fish,Desert,Herbivore,Least Concern,South America
+1169,James Puma,Caldwell Alvarez,Bird,Rivers,Omnivore,Least Concern,Worldwide
+1170,Ronald Puma,Bennett Rogers,Fish,Desert,Herbivore,Endangered,Worldwide
+1171,Tina Owl,Lee Molina,Reptile,Forest,Herbivore,Endangered,North America
+1172,Isabel Lizard,Garrett Vega,Mammal,Grasslands,Omnivore,Vulnerable,South America
+1173,Cynthia Bear,Brown Dixon,Fish,Rivers,Omnivore,Endangered,South America
+1174,William Bear,Cohen Mitchell,Amphibian,Grasslands,Herbivore,Endangered,Asia
+1175,Bridget Eagle,Trujillo Kramer,Amphibian,Ocean,Omnivore,Critically Endangered,Antarctica
+1176,Jessica Falcon,Johnson Strong,Reptile,Savannah,Carnivore,Near Threatened,Antarctica
+1177,Kaitlin Falcon,Sanchez Waller,Reptile,Ocean,Herbivore,Near Threatened,Africa
+1178,Edward Bear,Wolf Ruiz,Fish,Mountains,Herbivore,Near Threatened,Antarctica
+1179,Michael Lizard,Cunningham Strickland,Fish,Desert,Carnivore,Near Threatened,Europe
+1180,Jerry Python,Wilson Martinez,Reptile,Mountains,Omnivore,Least Concern,Antarctica
+1181,Darius Crocodile,Hogan Huang,Mammal,Rivers,Omnivore,Vulnerable,Antarctica
+1182,Jason Crocodile,Ramirez Acosta,Reptile,Forest,Carnivore,Near Threatened,Asia
+1183,Rebecca Puma,Jones Shannon,Reptile,Mountains,Carnivore,Least Concern,Australia
+1184,Toni Falcon,James Silva,Amphibian,Ocean,Omnivore,Critically Endangered,Australia
+1185,Lisa Shark,Spears Stewart,Mammal,Desert,Omnivore,Near Threatened,Australia
+1186,Abigail Wolf,Perkins Mueller,Bird,Wetlands,Herbivore,Vulnerable,South America
+1187,Ricky Owl,Bruce Huynh,Amphibian,Caves,Carnivore,Endangered,Australia
+1188,Nathan Crocodile,Martinez Kelly,Reptile,Tundra,Carnivore,Critically Endangered,Antarctica
+1189,Desiree Tiger,Dillon Cox,Reptile,Caves,Omnivore,Least Concern,Antarctica
+1190,Eric Lizard,Mueller Miller,Reptile,Forest,Omnivore,Vulnerable,Worldwide
+1191,Jesse Crocodile,Ramirez Ford,Fish,Savannah,Herbivore,Endangered,Worldwide
+1192,Janet Wolf,Mays Sanchez,Mammal,Desert,Herbivore,Critically Endangered,Africa
+1193,Kristin Puma,Sampson Yoder,Mammal,Savannah,Carnivore,Near Threatened,Worldwide
+1194,Jennifer Bear,Robinson Sharp,Fish,Rivers,Herbivore,Critically Endangered,South America
+1195,Hannah Wolf,Hogan Lambert,Bird,Desert,Herbivore,Near Threatened,Europe
+1196,Aaron Python,Pratt Russo,Bird,Rivers,Herbivore,Least Concern,Africa
+1197,Robin Lizard,Vincent Hendrix,Bird,Savannah,Carnivore,Vulnerable,Europe
+1198,Eric Bear,Stewart Bates,Fish,Ocean,Herbivore,Critically Endangered,Antarctica
+1199,Meghan Owl,Salinas Scott,Reptile,Grasslands,Omnivore,Critically Endangered,Australia
+1200,Valerie Bear,Thomas Harrison,Bird,Wetlands,Herbivore,Near Threatened,Antarctica
+1201,Jeremy Falcon,Martin Kane,Reptile,Desert,Omnivore,Near Threatened,Europe
+1202,Abigail Wolf,Hampton Cabrera,Bird,Ocean,Carnivore,Endangered,Europe
+1203,Julian Crocodile,Miller Bryant,Bird,Wetlands,Omnivore,Critically Endangered,Asia
+1204,James Puma,Stevenson Barrera,Amphibian,Rivers,Omnivore,Vulnerable,Antarctica
+1205,Cindy Bear,Yu Miles,Bird,Tundra,Omnivore,Vulnerable,North America
+1206,Robert Python,Horton Cruz,Bird,Wetlands,Omnivore,Least Concern,Europe
+1207,Susan Eagle,Riley Barnett,Fish,Grasslands,Omnivore,Vulnerable,Worldwide
+1208,Diana Shark,Ramos Carey,Fish,Caves,Carnivore,Critically Endangered,Europe
+1209,Laura Tiger,Davis Bryan,Amphibian,Forest,Carnivore,Endangered,North America
+1210,Elizabeth Crocodile,Ortiz Preston,Fish,Wetlands,Herbivore,Vulnerable,Australia
+1211,Donna Wolf,Martin Johnson,Bird,Mountains,Herbivore,Critically Endangered,Australia
+1212,Joshua Falcon,Taylor Larson,Amphibian,Savannah,Omnivore,Least Concern,North America
+1213,Monica Python,Ingram Price,Fish,Wetlands,Herbivore,Vulnerable,Europe
+1214,Rebecca Puma,Buchanan Pena,Mammal,Rivers,Herbivore,Vulnerable,Worldwide
+1215,David Bear,Hicks Spencer,Reptile,Ocean,Omnivore,Critically Endangered,Asia
+1216,Judy Shark,Russo Torres,Bird,Grasslands,Carnivore,Endangered,Africa
+1217,Joyce Python,Carter Gallagher,Amphibian,Caves,Herbivore,Near Threatened,Worldwide
+1218,Christian Owl,Schmidt Powell,Mammal,Rivers,Carnivore,Least Concern,Worldwide
+1219,Richard Crocodile,Smith Simon,Bird,Tundra,Omnivore,Least Concern,Australia
+1220,Lisa Lizard,Rivera Cooper,Mammal,Mountains,Herbivore,Critically Endangered,Africa
+1221,Michael Tiger,Kemp Ortiz,Mammal,Ocean,Carnivore,Endangered,Africa
+1222,Luke Bear,Soto Conway,Reptile,Tundra,Omnivore,Near Threatened,Australia
+1223,Nicole Python,Walsh Zimmerman,Reptile,Rivers,Herbivore,Least Concern,North America
+1224,Lorraine Owl,Morrison Contreras,Bird,Mountains,Omnivore,Critically Endangered,North America
+1225,Tanya Puma,Hill Jarvis,Reptile,Caves,Carnivore,Endangered,Africa
+1226,Daniel Tiger,Hinton Watson,Amphibian,Grasslands,Herbivore,Critically Endangered,Antarctica
+1227,Melissa Python,Tucker Cooper,Bird,Tundra,Carnivore,Vulnerable,South America
+1228,Mark Owl,Watson Perez,Fish,Caves,Herbivore,Near Threatened,Antarctica
+1229,George Bear,Barber Franklin,Amphibian,Tundra,Omnivore,Endangered,Australia
+1230,Brett Bear,Thompson Allen,Fish,Ocean,Herbivore,Near Threatened,Asia
+1231,Timothy Crocodile,Lucas Ramos,Reptile,Caves,Herbivore,Vulnerable,Africa
+1232,Matthew Shark,Mcintosh Watson,Amphibian,Desert,Omnivore,Near Threatened,Worldwide
+1233,Nancy Falcon,Beck Taylor,Bird,Caves,Omnivore,Near Threatened,Africa
+1234,William Falcon,Jenkins Lane,Fish,Caves,Omnivore,Least Concern,Europe
+1235,Hannah Eagle,Franco Simmons,Mammal,Caves,Carnivore,Critically Endangered,North America
+1236,Rebecca Bear,Kelly Knight,Amphibian,Tundra,Carnivore,Near Threatened,Worldwide
+1237,Alison Puma,Bailey Turner,Fish,Ocean,Carnivore,Critically Endangered,Worldwide
+1238,Candice Crocodile,Thomas Woodward,Reptile,Mountains,Omnivore,Endangered,Antarctica
+1239,Jessica Puma,Miller Price,Fish,Savannah,Carnivore,Critically Endangered,Australia
+1240,Troy Puma,Hayes Moore,Fish,Grasslands,Herbivore,Critically Endangered,North America
+1241,Patricia Puma,Thomas Barrera,Fish,Caves,Omnivore,Vulnerable,North America
+1242,Alexander Crocodile,Jackson Schmidt,Reptile,Ocean,Herbivore,Endangered,South America
+1243,Daniel Tiger,Chase Clark,Bird,Rivers,Herbivore,Near Threatened,Europe
+1244,Adam Bear,Johnson Chambers,Bird,Forest,Herbivore,Vulnerable,Antarctica
+1245,Christopher Shark,Garcia Cole,Reptile,Tundra,Carnivore,Least Concern,Europe
+1246,Michael Bear,Lee Hall,Fish,Rivers,Herbivore,Least Concern,Europe
+1247,Ricky Owl,Brooks Meyers,Bird,Tundra,Herbivore,Vulnerable,Europe
+1248,James Python,Carr Gutierrez,Bird,Caves,Carnivore,Least Concern,Africa
+1249,Michelle Bear,Mcguire Barnes,Amphibian,Desert,Carnivore,Critically Endangered,Europe
+1250,James Bear,Ibarra Carter,Bird,Caves,Omnivore,Critically Endangered,Europe
+1251,Ruth Lizard,Hodge Sims,Amphibian,Desert,Herbivore,Vulnerable,Antarctica
+1252,David Bear,Hoffman Parks,Mammal,Forest,Omnivore,Endangered,Europe
+1253,Nicholas Lizard,Allen Robbins,Bird,Mountains,Omnivore,Critically Endangered,Antarctica
+1254,Cindy Lizard,Bates Johnson,Reptile,Rivers,Omnivore,Vulnerable,North America
+1255,Brian Python,Russell Welch,Mammal,Rivers,Carnivore,Critically Endangered,North America
+1256,Michael Wolf,Decker Smith,Amphibian,Savannah,Carnivore,Near Threatened,Africa
+1257,Lori Shark,Robinson Saunders,Reptile,Rivers,Omnivore,Critically Endangered,South America
+1258,Theresa Wolf,Lopez Berg,Reptile,Forest,Omnivore,Critically Endangered,Africa
+1259,Shannon Wolf,Reynolds Brooks,Mammal,Grasslands,Omnivore,Critically Endangered,Asia
+1260,Manuel Puma,Williams Anderson,Mammal,Tundra,Carnivore,Near Threatened,Europe
+1261,William Crocodile,Anderson Hoffman,Fish,Rivers,Carnivore,Endangered,Africa
+1262,Judith Lizard,Savage Martin,Amphibian,Grasslands,Herbivore,Least Concern,Worldwide
+1263,Krystal Puma,Jones Smith,Bird,Ocean,Herbivore,Endangered,Africa
+1264,Erin Wolf,Lopez Jimenez,Fish,Desert,Herbivore,Near Threatened,Worldwide
+1265,Lucas Owl,Carrillo Cooper,Fish,Caves,Carnivore,Near Threatened,Asia
+1266,Chris Wolf,Williams Knapp,Bird,Grasslands,Omnivore,Near Threatened,North America
+1267,Allen Python,Valentine Walker,Amphibian,Mountains,Carnivore,Endangered,Europe
+1268,Laura Puma,Taylor Barber,Reptile,Savannah,Omnivore,Vulnerable,Europe
+1269,Paul Tiger,Johnson Graham,Fish,Savannah,Herbivore,Least Concern,Asia
+1270,Shane Shark,Foster Baker,Amphibian,Grasslands,Carnivore,Endangered,Europe
+1271,Joshua Wolf,Washington Taylor,Amphibian,Grasslands,Herbivore,Near Threatened,Africa
+1272,Christian Owl,Rogers Ruiz,Fish,Tundra,Carnivore,Vulnerable,Worldwide
+1273,William Bear,Freeman Mitchell,Amphibian,Wetlands,Omnivore,Near Threatened,Europe
+1274,Rebekah Falcon,Wright Hanson,Fish,Mountains,Carnivore,Critically Endangered,North America
+1275,Michelle Crocodile,Smith Young,Fish,Grasslands,Herbivore,Endangered,Antarctica
+1276,Samantha Crocodile,Davis Steele,Amphibian,Rivers,Omnivore,Vulnerable,North America
+1277,Victoria Falcon,Bennett Velasquez,Amphibian,Caves,Carnivore,Near Threatened,Worldwide
+1278,Bryan Owl,Lamb Jenkins,Fish,Rivers,Omnivore,Near Threatened,Worldwide
+1279,Gerald Eagle,Torres Scott,Bird,Rivers,Omnivore,Least Concern,North America
+1280,Olivia Bear,Williams Adams,Fish,Savannah,Omnivore,Critically Endangered,Asia
+1281,Michael Falcon,Mcbride Watson,Amphibian,Caves,Carnivore,Critically Endangered,Europe
+1282,Christine Eagle,Russell Wilson,Reptile,Forest,Carnivore,Vulnerable,Europe
+1283,David Lizard,Anderson Patterson,Fish,Mountains,Carnivore,Vulnerable,Asia
+1284,Elizabeth Wolf,Maynard Davis,Bird,Caves,Carnivore,Least Concern,North America
+1285,Elizabeth Eagle,Jackson Wilson,Reptile,Desert,Herbivore,Least Concern,Antarctica
+1286,Daniel Puma,Clements Bender,Fish,Tundra,Herbivore,Vulnerable,North America
+1287,Samantha Owl,Caldwell Russo,Fish,Wetlands,Herbivore,Least Concern,Antarctica
+1288,Jennifer Falcon,Bishop Lynch,Fish,Mountains,Carnivore,Least Concern,Antarctica
+1289,Brandon Owl,Hodges Howard,Reptile,Forest,Carnivore,Critically Endangered,North America
+1290,William Crocodile,Bailey Young,Reptile,Rivers,Herbivore,Near Threatened,Worldwide
+1291,Caroline Wolf,Smith Briggs,Mammal,Tundra,Herbivore,Critically Endangered,Australia
+1292,Kathryn Falcon,Thompson Brown,Mammal,Wetlands,Carnivore,Least Concern,Worldwide
+1293,Martha Crocodile,Blankenship Chen,Mammal,Tundra,Omnivore,Vulnerable,Antarctica
+1294,Joshua Python,Fox Tran,Amphibian,Mountains,Carnivore,Endangered,Worldwide
+1295,Richard Falcon,Moore Elliott,Amphibian,Tundra,Herbivore,Critically Endangered,North America
+1296,Selena Python,Hull Yu,Bird,Caves,Herbivore,Vulnerable,Africa
+1297,Hunter Owl,Moss Lam,Bird,Tundra,Carnivore,Vulnerable,South America
+1298,Nicole Wolf,Lewis Church,Reptile,Grasslands,Carnivore,Least Concern,Australia
+1299,Kathleen Falcon,Peterson Shaw,Bird,Grasslands,Carnivore,Vulnerable,Africa
+1300,Maria Falcon,Lamb Carroll,Mammal,Desert,Omnivore,Critically Endangered,Europe
+1301,Andrea Bear,Long Hensley,Amphibian,Savannah,Omnivore,Least Concern,Asia
+1302,Melody Puma,Lewis Conner,Fish,Ocean,Carnivore,Least Concern,Antarctica
+1303,Jenna Crocodile,Smith Alexander,Amphibian,Tundra,Carnivore,Near Threatened,Europe
+1304,David Falcon,Thompson Morales,Mammal,Savannah,Omnivore,Vulnerable,Worldwide
+1305,Jacob Owl,Velez Yu,Amphibian,Wetlands,Herbivore,Near Threatened,Australia
+1306,Tanya Bear,Holt Villa,Amphibian,Desert,Carnivore,Near Threatened,Worldwide
+1307,Nicole Owl,Cox Rodriguez,Reptile,Mountains,Carnivore,Critically Endangered,North America
+1308,Elizabeth Python,Alvarez Wong,Reptile,Mountains,Herbivore,Near Threatened,Antarctica
+1309,Breanna Wolf,Mcgee Hernandez,Bird,Rivers,Herbivore,Vulnerable,North America
+1310,Marisa Bear,Young Shannon,Reptile,Desert,Carnivore,Critically Endangered,Worldwide
+1311,Olivia Python,Snyder Lin,Fish,Rivers,Herbivore,Critically Endangered,North America
+1312,Denise Puma,Sosa Mills,Mammal,Savannah,Omnivore,Vulnerable,South America
+1313,Scott Shark,Delacruz Ewing,Mammal,Ocean,Carnivore,Least Concern,North America
+1314,Cynthia Tiger,Sheppard Ramirez,Fish,Ocean,Carnivore,Near Threatened,Antarctica
+1315,Eric Owl,Haas Sanchez,Bird,Mountains,Herbivore,Least Concern,North America
+1316,Kenneth Shark,Wilson Fields,Amphibian,Desert,Herbivore,Near Threatened,South America
+1317,Dean Bear,Williams Johnson,Reptile,Grasslands,Omnivore,Near Threatened,Australia
+1318,Katie Puma,Rivas Juarez,Mammal,Savannah,Herbivore,Critically Endangered,Worldwide
+1319,Grant Tiger,Duncan Smith,Bird,Mountains,Carnivore,Vulnerable,South America
+1320,James Falcon,Brooks Hammond,Bird,Caves,Omnivore,Critically Endangered,Antarctica
+1321,Jason Puma,James Adams,Amphibian,Tundra,Carnivore,Critically Endangered,South America
+1322,Donna Wolf,Oconnell Lewis,Reptile,Forest,Carnivore,Least Concern,Asia
+1323,Kenneth Bear,Brooks Griffin,Reptile,Savannah,Carnivore,Near Threatened,Antarctica
+1324,Katherine Wolf,Rowe Jones,Reptile,Desert,Herbivore,Endangered,Africa
+1325,Gregory Crocodile,Shepherd Dunlap,Bird,Forest,Herbivore,Critically Endangered,Africa
+1326,Whitney Lizard,Scott Robertson,Reptile,Forest,Carnivore,Critically Endangered,Africa
+1327,Denise Falcon,Gibson Dominguez,Reptile,Caves,Omnivore,Least Concern,Africa
+1328,Jonathan Owl,Edwards Collins,Reptile,Rivers,Omnivore,Vulnerable,North America
+1329,Brad Wolf,Payne Brown,Fish,Ocean,Herbivore,Critically Endangered,North America
+1330,Arthur Lizard,Lee Anderson,Bird,Savannah,Carnivore,Critically Endangered,Africa
+1331,Alexander Bear,Mccarthy Young,Bird,Rivers,Herbivore,Critically Endangered,Worldwide
+1332,Gordon Tiger,Jimenez Gomez,Fish,Wetlands,Omnivore,Near Threatened,Antarctica
+1333,Megan Shark,Moyer Ray,Bird,Rivers,Carnivore,Least Concern,Worldwide
+1334,Amy Owl,Ponce Hicks,Fish,Caves,Omnivore,Endangered,Europe
+1335,Lisa Puma,Perry Rivera,Amphibian,Forest,Herbivore,Vulnerable,Australia
+1336,Charles Wolf,Ruiz Valdez,Fish,Grasslands,Herbivore,Critically Endangered,South America
+1337,Anne Wolf,Figueroa Powell,Reptile,Caves,Carnivore,Vulnerable,Africa
+1338,Tyler Owl,Ross Fox,Amphibian,Rivers,Herbivore,Critically Endangered,South America
+1339,Vicki Puma,Murphy Franco,Mammal,Forest,Carnivore,Vulnerable,Australia
+1340,Stephen Python,Lee Buck,Reptile,Caves,Omnivore,Endangered,North America
+1341,Christie Tiger,Garcia Brandt,Reptile,Tundra,Carnivore,Vulnerable,Worldwide
+1342,Ashley Falcon,Rich Howe,Amphibian,Mountains,Omnivore,Vulnerable,South America
+1343,Andrea Tiger,James Williams,Amphibian,Ocean,Herbivore,Critically Endangered,Asia
+1344,Amanda Crocodile,Cross Wolfe,Mammal,Forest,Omnivore,Endangered,South America
+1345,Austin Puma,Smith Fuller,Reptile,Wetlands,Omnivore,Endangered,Asia
+1346,Matthew Wolf,Frye Brown,Reptile,Forest,Carnivore,Critically Endangered,South America
+1347,Steven Falcon,Smith Wilson,Mammal,Tundra,Carnivore,Near Threatened,Antarctica
+1348,Lisa Wolf,Ortiz Jacobson,Reptile,Wetlands,Carnivore,Vulnerable,Europe
+1349,Jason Falcon,Freeman Poole,Reptile,Rivers,Omnivore,Vulnerable,Worldwide
+1350,Melissa Bear,Brooks Simpson,Bird,Ocean,Herbivore,Vulnerable,Africa
+1351,Shelly Crocodile,Booker Mendoza,Amphibian,Caves,Herbivore,Critically Endangered,Antarctica
+1352,Kelsey Falcon,Choi Allen,Fish,Ocean,Omnivore,Vulnerable,Asia
+1353,Morgan Crocodile,Galloway Jordan,Amphibian,Rivers,Omnivore,Vulnerable,South America
+1354,Debbie Shark,Hall Dominguez,Reptile,Rivers,Carnivore,Vulnerable,Worldwide
+1355,Amy Shark,Fernandez Dominguez,Mammal,Wetlands,Carnivore,Endangered,Africa
+1356,Kevin Bear,Doyle Carter,Mammal,Rivers,Herbivore,Critically Endangered,Australia
+1357,Joseph Python,Johnson Smith,Mammal,Mountains,Herbivore,Least Concern,Worldwide
+1358,Chris Lizard,Mcguire Fox,Bird,Forest,Herbivore,Least Concern,Antarctica
+1359,Sarah Wolf,Harrell Mcfarland,Amphibian,Caves,Herbivore,Least Concern,South America
+1360,Andrea Bear,Melendez Duncan,Reptile,Ocean,Omnivore,Vulnerable,Europe
+1361,Kyle Python,Oconnor Lee,Bird,Desert,Herbivore,Least Concern,Europe
+1362,Kathryn Owl,Hernandez Cummings,Bird,Grasslands,Carnivore,Critically Endangered,Europe
+1363,Jeffrey Shark,Edwards Alvarez,Amphibian,Desert,Carnivore,Least Concern,Australia
+1364,Aaron Lizard,Smith Bowers,Bird,Mountains,Herbivore,Critically Endangered,Europe
+1365,Andrew Crocodile,Weaver Saunders,Bird,Mountains,Omnivore,Least Concern,Worldwide
+1366,Justin Eagle,Mitchell Cain,Amphibian,Caves,Omnivore,Critically Endangered,South America
+1367,Melissa Tiger,Weber Ramirez,Amphibian,Wetlands,Omnivore,Least Concern,Africa
+1368,Helen Bear,Baker Miller,Mammal,Ocean,Carnivore,Critically Endangered,Asia
+1369,Sean Owl,Andrade Alvarez,Amphibian,Wetlands,Carnivore,Critically Endangered,Africa
+1370,Matthew Python,Moore Moore,Mammal,Grasslands,Carnivore,Near Threatened,Antarctica
+1371,Derek Wolf,Vance Bowman,Reptile,Desert,Omnivore,Critically Endangered,Europe
+1372,Kristina Owl,Hicks Carter,Mammal,Grasslands,Omnivore,Critically Endangered,Antarctica
+1373,Charles Eagle,Tate Johnson,Bird,Mountains,Carnivore,Vulnerable,Africa
+1374,Sally Owl,Nelson Hall,Bird,Forest,Herbivore,Vulnerable,Antarctica
+1375,Michelle Python,Lewis Harris,Amphibian,Rivers,Carnivore,Vulnerable,Africa
+1376,Daisy Python,Castaneda Rose,Bird,Caves,Herbivore,Near Threatened,Asia
+1377,James Tiger,Nelson Hess,Reptile,Tundra,Carnivore,Vulnerable,South America
+1378,David Wolf,Cook Smith,Amphibian,Ocean,Omnivore,Near Threatened,Asia
+1379,William Puma,Bonilla Mcdaniel,Mammal,Wetlands,Omnivore,Endangered,Africa
+1380,David Python,Harvey Alvarado,Fish,Forest,Herbivore,Vulnerable,South America
+1381,Steven Bear,Foley Watson,Amphibian,Savannah,Omnivore,Critically Endangered,Africa
+1382,Lindsey Falcon,Douglas Forbes,Mammal,Caves,Carnivore,Near Threatened,Worldwide
+1383,Robert Shark,Bush Marquez,Fish,Rivers,Carnivore,Critically Endangered,South America
+1384,John Owl,Skinner Morris,Reptile,Mountains,Herbivore,Least Concern,Antarctica
+1385,Jared Shark,Lewis Richardson,Reptile,Caves,Carnivore,Near Threatened,North America
+1386,Robert Eagle,Potter Martin,Bird,Rivers,Carnivore,Endangered,South America
+1387,Jennifer Python,Bray Barrett,Mammal,Wetlands,Omnivore,Endangered,Africa
+1388,Lisa Puma,Jefferson Watson,Amphibian,Desert,Herbivore,Endangered,Asia
+1389,Adam Eagle,Martinez Walton,Bird,Wetlands,Carnivore,Endangered,Antarctica
+1390,Sheri Eagle,Francis Wilkins,Amphibian,Forest,Omnivore,Endangered,North America
+1391,Zachary Tiger,Jones Warner,Bird,Caves,Herbivore,Critically Endangered,Europe
+1392,Gregory Crocodile,Smith Baker,Mammal,Caves,Herbivore,Least Concern,Antarctica
+1393,Brandi Wolf,Zamora Nielsen,Mammal,Grasslands,Carnivore,Critically Endangered,Europe
+1394,Pamela Tiger,Mitchell Smith,Amphibian,Ocean,Herbivore,Near Threatened,Africa
+1395,Ariel Python,Doyle Hall,Mammal,Forest,Omnivore,Near Threatened,Antarctica
+1396,Dakota Tiger,Martin Durham,Bird,Ocean,Omnivore,Least Concern,Europe
+1397,Ryan Falcon,Wilson Lee,Fish,Tundra,Omnivore,Endangered,Europe
+1398,Christina Tiger,Barry Washington,Fish,Caves,Carnivore,Near Threatened,South America
+1399,Bryan Bear,Schultz Mitchell,Bird,Grasslands,Herbivore,Critically Endangered,Europe
+1400,William Python,Jones Kirk,Amphibian,Desert,Omnivore,Near Threatened,Asia
+1401,Dennis Crocodile,Montgomery Miller,Fish,Forest,Omnivore,Endangered,Europe
+1402,Debbie Shark,Davis Smith,Fish,Wetlands,Carnivore,Vulnerable,Africa
+1403,Laura Crocodile,Buck Ballard,Mammal,Tundra,Herbivore,Near Threatened,Antarctica
+1404,Daniel Lizard,Lee Carpenter,Reptile,Desert,Carnivore,Least Concern,North America
+1405,Alexander Crocodile,Sanchez Leonard,Reptile,Mountains,Carnivore,Least Concern,North America
+1406,Janice Lizard,Terrell Santiago,Mammal,Rivers,Herbivore,Near Threatened,Europe
+1407,Amanda Wolf,Chavez Morales,Fish,Tundra,Herbivore,Least Concern,Antarctica
+1408,Ryan Bear,Cain Hull,Mammal,Caves,Herbivore,Least Concern,Australia
+1409,Julia Falcon,Howard Miller,Mammal,Grasslands,Omnivore,Vulnerable,Asia
+1410,Regina Owl,Phillips Walters,Bird,Rivers,Herbivore,Near Threatened,Worldwide
+1411,Roy Wolf,Gordon Lewis,Reptile,Desert,Herbivore,Near Threatened,Worldwide
+1412,Samantha Owl,Daniels Haynes,Fish,Rivers,Omnivore,Critically Endangered,Antarctica
+1413,Teresa Puma,Bell Johnson,Fish,Tundra,Carnivore,Critically Endangered,Australia
+1414,Stephanie Puma,Hill Brown,Reptile,Tundra,Omnivore,Vulnerable,Europe
+1415,Paul Bear,Scott Hunt,Bird,Mountains,Omnivore,Near Threatened,Europe
+1416,Douglas Bear,Gomez Olson,Amphibian,Wetlands,Carnivore,Vulnerable,Europe
+1417,Mary Shark,Munoz Myers,Fish,Desert,Omnivore,Near Threatened,Asia
+1418,Christopher Puma,Rodriguez Martinez,Fish,Savannah,Omnivore,Least Concern,Worldwide
+1419,Carrie Owl,Huang Aguilar,Bird,Mountains,Omnivore,Critically Endangered,Australia
+1420,Peggy Eagle,Rogers Elliott,Reptile,Ocean,Carnivore,Least Concern,Europe
+1421,Denise Crocodile,Miller Keller,Amphibian,Rivers,Carnivore,Critically Endangered,Africa
+1422,Theresa Shark,Smith Phillips,Mammal,Ocean,Carnivore,Endangered,Worldwide
+1423,Keith Owl,Gallagher Sparks,Mammal,Grasslands,Herbivore,Vulnerable,Australia
+1424,David Crocodile,Alvarez Benson,Reptile,Tundra,Herbivore,Least Concern,Europe
+1425,Michael Eagle,Stevens Meyer,Amphibian,Rivers,Carnivore,Near Threatened,Europe
+1426,Stefanie Falcon,Davis Lopez,Mammal,Forest,Carnivore,Near Threatened,Asia
+1427,Douglas Falcon,Andrade Richards,Mammal,Savannah,Carnivore,Least Concern,Worldwide
+1428,Ian Lizard,Wilson Howard,Fish,Mountains,Herbivore,Critically Endangered,Antarctica
+1429,Gregory Crocodile,Kelly Braun,Mammal,Wetlands,Herbivore,Near Threatened,Australia
+1430,Matthew Crocodile,Singleton Allen,Fish,Mountains,Omnivore,Least Concern,North America
+1431,Shaun Lizard,Woodard King,Fish,Rivers,Omnivore,Near Threatened,Antarctica
+1432,Linda Crocodile,Rodriguez Allen,Reptile,Caves,Herbivore,Critically Endangered,Europe
+1433,Kristina Wolf,Michael Moss,Mammal,Savannah,Carnivore,Vulnerable,Africa
+1434,Cindy Bear,Oneal Harvey,Fish,Caves,Carnivore,Critically Endangered,Asia
+1435,Sharon Python,White Brown,Reptile,Grasslands,Omnivore,Near Threatened,South America
+1436,Cynthia Eagle,Newman Cox,Reptile,Wetlands,Herbivore,Least Concern,Australia
+1437,Jeffrey Shark,Cannon Scott,Mammal,Ocean,Carnivore,Endangered,Asia
+1438,Michael Wolf,Cruz Miller,Amphibian,Caves,Herbivore,Near Threatened,Asia
+1439,Karen Bear,Clarke Johnson,Mammal,Desert,Carnivore,Least Concern,Europe
+1440,Stephanie Tiger,Chavez Young,Bird,Wetlands,Carnivore,Least Concern,Africa
+1441,Kristin Wolf,Carter Greene,Fish,Desert,Omnivore,Least Concern,Worldwide
+1442,Steven Eagle,Lowe Pearson,Fish,Ocean,Omnivore,Least Concern,South America
+1443,Randy Eagle,Howard Villarreal,Amphibian,Caves,Herbivore,Endangered,South America
+1444,Marcus Lizard,Gutierrez Morris,Amphibian,Desert,Carnivore,Endangered,Worldwide
+1445,Jason Owl,Campbell Fuentes,Mammal,Savannah,Omnivore,Near Threatened,Australia
+1446,Mary Puma,Robinson Castro,Mammal,Mountains,Carnivore,Near Threatened,Antarctica
+1447,Jorge Shark,Barnett Sanders,Fish,Desert,Herbivore,Vulnerable,Worldwide
+1448,Shawn Puma,Johnson Woods,Mammal,Caves,Omnivore,Endangered,Asia
+1449,Rachel Wolf,Cabrera Smith,Fish,Forest,Herbivore,Endangered,Africa
+1450,Anthony Python,Spence Miller,Fish,Grasslands,Omnivore,Least Concern,North America
+1451,Sandy Shark,Hester Jenkins,Fish,Ocean,Omnivore,Critically Endangered,Europe
+1452,Gloria Wolf,Smith Baker,Mammal,Wetlands,Herbivore,Least Concern,North America
+1453,Jermaine Bear,Allen Garcia,Bird,Mountains,Herbivore,Endangered,Worldwide
+1454,Robert Bear,Campbell Kim,Amphibian,Desert,Herbivore,Vulnerable,Asia
+1455,Victoria Falcon,Williams Poole,Reptile,Wetlands,Carnivore,Least Concern,Asia
+1456,Patricia Crocodile,Pope Campbell,Reptile,Rivers,Carnivore,Critically Endangered,Australia
+1457,Connor Eagle,Lewis Washington,Fish,Desert,Omnivore,Critically Endangered,Africa
+1458,John Bear,Harper Taylor,Amphibian,Ocean,Herbivore,Critically Endangered,Australia
+1459,Leslie Lizard,Wells Mills,Reptile,Savannah,Carnivore,Critically Endangered,Africa
+1460,Shawn Falcon,Meza Rhodes,Fish,Rivers,Carnivore,Least Concern,Asia
+1461,Kevin Owl,Morris Carter,Fish,Rivers,Carnivore,Near Threatened,Asia
+1462,Angela Falcon,Melendez Miller,Amphibian,Wetlands,Herbivore,Near Threatened,Antarctica
+1463,Amanda Bear,Copeland Wilson,Reptile,Mountains,Carnivore,Least Concern,North America
+1464,Taylor Python,Levy Thompson,Amphibian,Ocean,Omnivore,Vulnerable,Antarctica
+1465,Derek Bear,Hill Hawkins,Reptile,Mountains,Omnivore,Critically Endangered,North America
+1466,Jessica Tiger,Mack Brown,Mammal,Savannah,Omnivore,Vulnerable,Antarctica
+1467,Melissa Falcon,Mcdowell Ferrell,Bird,Forest,Carnivore,Least Concern,Worldwide
+1468,Daniel Bear,Moore Rivas,Mammal,Tundra,Omnivore,Vulnerable,Antarctica
+1469,Mary Eagle,Wilson Warren,Amphibian,Tundra,Omnivore,Vulnerable,Asia
+1470,Justin Eagle,Zavala Larson,Bird,Savannah,Omnivore,Least Concern,Australia
+1471,John Eagle,Smith Torres,Bird,Grasslands,Carnivore,Near Threatened,Asia
+1472,Raymond Tiger,Little Owen,Mammal,Tundra,Omnivore,Near Threatened,Africa
+1473,Meagan Tiger,Peterson Garcia,Bird,Desert,Herbivore,Critically Endangered,Europe
+1474,Deborah Bear,Horn Berger,Mammal,Grasslands,Carnivore,Endangered,Europe
+1475,Jack Tiger,Woods Nelson,Fish,Forest,Carnivore,Endangered,Australia
+1476,Jeffrey Wolf,Mendoza Cochran,Reptile,Ocean,Herbivore,Least Concern,Australia
+1477,James Falcon,Perez Carson,Fish,Savannah,Omnivore,Vulnerable,Asia
+1478,Jeremy Eagle,Torres Wheeler,Mammal,Ocean,Carnivore,Vulnerable,Australia
+1479,Leslie Bear,Archer Morales,Bird,Tundra,Omnivore,Near Threatened,Worldwide
+1480,Amber Lizard,Cook Moreno,Reptile,Rivers,Omnivore,Least Concern,North America
+1481,Robert Eagle,Johnson Walter,Bird,Desert,Herbivore,Critically Endangered,Asia
+1482,Wendy Lizard,Terrell Young,Bird,Desert,Omnivore,Near Threatened,South America
+1483,Roy Eagle,Velez Cook,Fish,Forest,Carnivore,Near Threatened,Worldwide
+1484,Stephanie Bear,Mercado Bennett,Mammal,Ocean,Carnivore,Vulnerable,North America
+1485,Martha Falcon,Reed Park,Fish,Forest,Omnivore,Vulnerable,Europe
+1486,Christina Crocodile,Carson Clark,Mammal,Grasslands,Herbivore,Least Concern,Asia
+1487,James Lizard,Owens Mendez,Reptile,Savannah,Herbivore,Critically Endangered,Europe
+1488,Timothy Bear,Cunningham Perkins,Amphibian,Wetlands,Herbivore,Least Concern,Worldwide
+1489,Alan Bear,Greer Smith,Bird,Caves,Herbivore,Critically Endangered,Antarctica
+1490,Yesenia Eagle,Jefferson Rodriguez,Fish,Grasslands,Carnivore,Least Concern,Europe
+1491,Stephen Tiger,Williams Lewis,Amphibian,Savannah,Omnivore,Critically Endangered,North America
+1492,Sandra Python,Bradley Russell,Mammal,Grasslands,Carnivore,Vulnerable,Europe
+1493,Matthew Eagle,Davis Castro,Mammal,Grasslands,Omnivore,Endangered,Australia
+1494,Gregory Lizard,Beck Villanueva,Fish,Savannah,Carnivore,Endangered,Europe
+1495,John Wolf,Pratt Gamble,Amphibian,Rivers,Carnivore,Vulnerable,Asia
+1496,Jessica Python,Meadows Donaldson,Fish,Grasslands,Herbivore,Near Threatened,North America
+1497,Angela Python,Andrews Munoz,Amphibian,Ocean,Carnivore,Vulnerable,Worldwide
+1498,Steven Eagle,Nelson Gay,Reptile,Savannah,Herbivore,Critically Endangered,Worldwide
+1499,Sarah Shark,Davis Lopez,Reptile,Grasslands,Herbivore,Endangered,Antarctica
+1500,Christina Python,Jackson Lopez,Reptile,Rivers,Herbivore,Least Concern,North America
