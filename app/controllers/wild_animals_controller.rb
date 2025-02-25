@@ -1,6 +1,7 @@
 class WildAnimalsController < ApplicationController
     before_action :set_wild_animal, only: [:show, :update, :destroy]
-    before_action :authenticate_user!, except: [:index, :show]
+    before_action :doorkeeper_authorize!, except: [:index, :show]
+
   
     # GET /wild_animals
     def index
