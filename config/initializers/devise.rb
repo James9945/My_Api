@@ -15,7 +15,7 @@ Devise.setup do |config|
   # Devise will use the `secret_key_base` as its `secret_key`
   # by default. You can change it below and use your own secret key.
   # config.secret_key = '861485f30d097507522feea8a85143b985ffeb7efc21d63e7f03f83b30686dae325cd6d5a5bd90227df118bc44d6b1bc9bb1b50c751782142c2e84dd94fc37c0'
-
+  config.navigational_formats = []  
   # ==> Controller configuration
   # Configure the parent class to the devise controllers.
   # config.parent_controller = 'DeviseController'
@@ -97,11 +97,9 @@ Devise.setup do |config|
   # Notice that if you are skipping storage for all authentication paths, you
   # may want to disable generating routes to Devise's sessions controller by
   # passing skip: :sessions to `devise_for` in your config/routes.rb
-  config.navigational_formats = []
-
-  config.skip_session_storage = [:http_auth, :params_auth]
-
-
+ 
+  config.skip_session_storage = [:http_auth, :token_auth]
+  
   # By default, Devise cleans up the CSRF token on authentication to
   # avoid CSRF token fixation attacks. This means that, when using AJAX
   # requests for sign in and sign up, you need to get a new CSRF token

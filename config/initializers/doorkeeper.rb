@@ -1,9 +1,11 @@
 # frozen_string_literal: true
 
 Doorkeeper.configure do
+  api_only
   # Change the ORM that doorkeeper will use (requires ORM extensions installed).
   # Check the list of supported ORMs here: https://github.com/doorkeeper-gem/doorkeeper#orms
   orm :active_record
+  
 
   # This block will be called to check whether the resource owner is authenticated or not.
   resource_owner_authenticator do
