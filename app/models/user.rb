@@ -3,4 +3,16 @@ class User < ApplicationRecord
   # :confirmable, :lockable, :timeoutable, :trackable and :omniauthable
   devise :database_authenticatable, :registerable,
          :recoverable, :rememberable, :validatable
+
+        
+  def self.authenticate(email, password)
+    user = User.find_by(email: email)
+      user&.valid_password?(password) ? user : nil
+  end
+        
+        
+
+
 end
+
+
