@@ -10,4 +10,5 @@ Rails.application.routes.draw do
 
   # Wild animals resource routes
   resources :wild_animals
+   root "wild_animals#index"
 end
